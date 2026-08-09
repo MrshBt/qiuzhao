@@ -2,18 +2,15 @@
 
 每日自动汇总秋招企业信息,部署在 GitHub Pages,数据每日 08:00(北京时间)自动更新。
 
-在线访问:部署后为 `https://<你的GitHub用户名>.github.io/<仓库名>/`
 
 ## 功能
 
-- 自动抓取 6 个信息源:
+- 自动抓取信息源:
   | 来源 | 类型 | 说明 |
   |---|---|---|
   | 牛客校招日程 | 自动 | 27届秋招/提前批等企业级信息,含官网投递链接 |
   | 牛客校招职位 | 自动 | 岗位级信息,含薪资、学历、投递起止时间 |
   | 国聘网 | 自动 | 央企/国企/银行岗位,含学历、专业、截止时间 |
-  | 新疆师大就业指导中心 | 自动 | 新疆本地招聘公告(官方) |
-  | 新疆大学就业网 | 自动 | 网络招聘岗位列表(官方) |
   | 微信公众号(国资小新等) | 尽力而为 | 搜狗微信搜索,常被反爬拦截,以手动录入为主 |
 - 企业类型自动推断(牛客性质映射 + 国聘性质词典 + 关键词兜底三层),词典存 `data/company_natures.json`,随每日运行累积
 - 筛选(均支持多选):企业类型 / 工作地点 / 批次(27届秋招等) / 来源 / 关键词(企业名、岗位、专业)
@@ -43,23 +40,8 @@ cp scraper/manual_template.json data/manual/2026-08-07.json
 - `batch`:如 `27届秋招`
 - `note`:备注(如"来自国资小新公众号")
 
-## 部署步骤
 
-1. 新建 GitHub 仓库,把本目录推上去
-2. 仓库 Settings → Pages → Source 选择 **GitHub Actions**
-3. 手动触发一次:仓库 Actions → **Daily Qiuzhao Scraper** → Run workflow
-4. 之后每天 08:00 自动更新。爬虫失败会自动在仓库创建 issue 提醒
 
-## 本地运行
-
-```bash
-pip install -r scraper/requirements.txt
-python scraper/main.py            # 全量更新 data/jobs.json 和 data/feed.xml
-python scraper/main.py --sources nowcoder   # 只跑指定源
-python scraper/main.py --pages 10           # 限制页数(测试)
-```
-
-本地预览前端:用任意静态服务器打开 `index.html`(直接双击文件浏览器可能限制 fetch 本地 json,建议 `python -m http.server 8000`)。
 
 ## 目录结构
 
