@@ -1,0 +1,434 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>秋招信息每日汇总</title>
+<style>
+:root {
+  --primary: #2b7de9;
+  --bg: #f5f6fa;
+  --card: #fff;
+  --text: #1f2937;
+  --muted: #6b7280;
+  --border: #e5e7eb;
+  --danger: #dc2626;
+  --ok: #16a34a;
+  --warn: #d97706;
+}
+* { box-sizing: border-box; margin: 0; padding: 0; }
+body {
+  font-family: -apple-system, "PingFang SC", "Microsoft YaHei", sans-serif;
+  background: var(--bg); color: var(--text); line-height: 1.6;
+}
+header {
+  background: linear-gradient(135deg, #1d4ed8, #2b7de9);
+  color: #fff; padding: 18px 16px 14px; position: sticky; top: 0; z-index: 50;
+  box-shadow: 0 2px 8px rgba(0,0,0,.12);
+}
+header h1 { font-size: 18px; display: flex; align-items: center; gap: 8px; }
+header .sub { font-size: 12px; opacity: .85; margin-top: 2px; }
+.wrap { max-width: 1080px; margin: 0 auto; padding: 0 12px; }
+
+/* 筛选栏 */
+.filters {
+  position: sticky; top: 68px; z-index: 40;
+  background: #fff; border: 1px solid var(--border); border-radius: 10px;
+  margin: 12px auto; padding: 10px 12px; max-width: 1080px;
+  box-shadow: 0 1px 4px rgba(0,0,0,.06);
+}
+.filters .row { display: flex; flex-wrap: wrap; gap: 8px; align-items: center; }
+.filters select, .filters input[type=text] {
+  border: 1px solid var(--border); border-radius: 6px; padding: 6px 8px;
+  font-size: 13px; background: #fff; color: var(--text); max-width: 100%;
+}
+.filters input[type=text] { flex: 1; min-width: 160px; }
+.filters label { font-size: 12px; color: var(--muted); white-space: nowrap; }
+.btn {
+  border: 1px solid var(--border); background: #fff; border-radius: 6px;
+  padding: 6px 12px; font-size: 13px; cursor: pointer; color: var(--text);
+  transition: all .15s;
+}
+.btn:hover { border-color: var(--primary); color: var(--primary); }
+.btn.active { background: var(--primary); border-color: var(--primary); color: #fff; }
+.btn.small { padding: 3px 8px; font-size: 12px; }
+.tag {
+  display: inline-block; padding: 2px 8px; border-radius: 999px;
+  font-size: 12px; background: #eef2ff; color: #3730a3; margin-right: 4px;
+}
+.tag.bank { background: #fef3c7; color: #92400e; }
+.tag.guoqi { background: #fee2e2; color: #b91c1c; }
+.tag.internet { background: #d1fae5; color: #065f46; }
+.tag.waiqi { background: #e0e7ff; color: #3730a3; }
+.tag.yanjiu { background: #f3e8ff; color: #6b21a8; }
+.tag.shiye { background: #ffedd5; color: #9a3412; }
+
+/* 统计条 */
+.stats { max-width: 1080px; margin: 4px auto; padding: 0 12px; font-size: 12px; color: var(--muted); display: flex; justify-content: space-between; flex-wrap: wrap; gap: 4px; }
+
+/* 卡片 */
+.cards { max-width: 1080px; margin: 10px auto; padding: 0 12px; display: flex; flex-direction: column; gap: 10px; }
+.card {
+  background: var(--card); border: 1px solid var(--border); border-radius: 10px;
+  padding: 14px 16px; position: relative; transition: box-shadow .15s;
+}
+.card:hover { box-shadow: 0 2px 10px rgba(0,0,0,.08); }
+.card.expired { opacity: .55; order: 100; }
+.card.new { border-left: 4px solid var(--ok); }
+.card.applied { background: #f8fafc; }
+.card .head { display: flex; flex-wrap: wrap; align-items: baseline; gap: 8px; margin-bottom: 6px; }
+.card .name { font-size: 16px; font-weight: 600; }
+.card .name a { color: var(--text); text-decoration: none; }
+.card .name a:hover { color: var(--primary); text-decoration: underline; }
+.card .meta { font-size: 12px; color: var(--muted); display: flex; flex-wrap: wrap; gap: 4px 12px; margin-bottom: 6px; }
+.card .pos { margin-bottom: 8px; }
+.card .pos .p { display: inline-block; background: #f1f5f9; border-radius: 4px; padding: 2px 6px; font-size: 12px; margin: 0 4px 4px 0; color: #334155; }
+.card .dates { font-size: 12px; display: flex; flex-wrap: wrap; gap: 4px 16px; align-items: center; }
+.card .dates .dl { color: var(--warn); font-weight: 600; }
+.card .dates .dl.urgent { color: var(--danger); }
+.card .dates .dl.passed { color: var(--muted); text-decoration: line-through; }
+.badge-new { background: var(--ok); color: #fff; font-size: 11px; padding: 1px 6px; border-radius: 4px; }
+.badge-stale { background: #e5e7eb; color: #6b7280; font-size: 11px; padding: 1px 6px; border-radius: 4px; }
+.actions { position: absolute; top: 12px; right: 12px; display: flex; gap: 4px; }
+.icon-btn {
+  border: 1px solid var(--border); background: #fff; border-radius: 6px;
+  width: 28px; height: 28px; cursor: pointer; font-size: 13px; color: var(--muted);
+}
+.icon-btn:hover { color: var(--primary); border-color: var(--primary); }
+.icon-btn.on { color: #d97706; border-color: #d97706; }
+.go-btn {
+  display: inline-block; background: var(--primary); color: #fff; text-decoration: none;
+  font-size: 12px; padding: 5px 12px; border-radius: 6px; margin-top: 8px;
+}
+.go-btn:hover { opacity: .9; }
+.extras { font-size: 12px; color: var(--muted); margin-top: 6px; }
+
+/* 空状态与加载 */
+.empty { text-align: center; padding: 60px 20px; color: var(--muted); font-size: 14px; }
+.load-more { text-align: center; margin: 12px; }
+footer { text-align: center; color: var(--muted); font-size: 12px; padding: 20px 12px 40px; }
+
+/* 城市快捷筛选 */
+.city-chips { display: flex; flex-wrap: wrap; gap: 6px; margin-top: 8px; }
+.city-chips .btn { padding: 3px 10px; font-size: 12px; }
+
+@media (max-width: 640px) {
+  .filters { top: 76px; }
+  .card .actions { position: static; justify-content: flex-end; margin-bottom: 6px; }
+}
+</style>
+</head>
+<body>
+<header>
+  <div class="wrap">
+    <h1>🎓 秋招信息每日汇总 <span id="total-badge" class="badge-new" style="display:none"></span></h1>
+    <div class="sub" id="updated-line">数据加载中…</div>
+  </div>
+</header>
+
+<div class="filters">
+  <div class="row">
+    <input type="text" id="kw" placeholder="搜索企业名 / 岗位关键词">
+    <select id="f-sort">
+      <option value="new">按发布时间(新→旧)</option>
+      <option value="deadline">按截止时间(近→远)</option>
+    </select>
+    <button class="btn" id="week-btn">📅 仅看一周内新发布</button>
+    <button class="btn" id="only-open-btn">⏳ 只看未截止</button>
+  </div>
+  <div class="city-chips" id="city-chips"><span class="label">城市:</span></div>
+  <div class="city-chips" id="type-chips"><span class="label">类型:</span></div>
+  <div class="city-chips" id="batch-chips"><span class="label">批次:</span></div>
+  <div class="city-chips" id="source-chips"><span class="label">来源:</span></div>
+</div>
+
+<div class="stats">
+  <span id="stats-info"></span>
+  <span><a href="data/feed.xml" target="_blank" style="color:var(--muted)">RSS</a> · 数据来源:牛客/国聘/新疆师大·新疆大学就业网/手动录入</span>
+</div>
+
+<div class="cards" id="cards"></div>
+<div class="load-more"><button class="btn" id="more-btn" style="display:none">加载更多</button></div>
+<div class="empty" id="empty" style="display:none">没有符合条件的记录</div>
+
+<footer>
+  秋招信息每日汇总 · GitHub Actions 每日 08:00 自动更新 · 原链接均指向官方页面<br>
+  建议:优先投递官网直投的央国企/银行岗位;宣讲会与本地就业信息见新疆师大就业网栏目
+</footer>
+
+<script>
+const STATE = {
+  data: [], all: [], updated: "",
+  q: "", type: [], city: [], batch: [], source: [], sort: "new",
+  weekOnly: false, onlyOpen: false,
+  page: 0, PAGE_SIZE: 40,
+};
+const KEY = { fav: "qz_fav", applied: "qz_applied", prefs: "qz_prefs" };
+let favs = new Set(JSON.parse(localStorage.getItem(KEY.fav) || "[]"));
+let applied = new Set(JSON.parse(localStorage.getItem(KEY.applied) || "[]"));
+let prefs = JSON.parse(localStorage.getItem(KEY.prefs) || "{}");
+STATE.q = prefs.q || "";
+STATE.type = prefs.type || []; STATE.city = prefs.city || [];
+STATE.batch = prefs.batch || []; STATE.source = prefs.source || [];
+
+const $ = (id) => document.getElementById(id);
+
+function daysAgo(n) {
+  const d = new Date(); d.setDate(d.getDate() - n);
+  return d.toISOString().slice(0, 10);
+}
+function isNew(d) { return d && d >= daysAgo(7); }
+function parseCityList(loc) {
+  if (!loc) return [];
+  return loc.split(/[、,，\/]+/).map(s => s.split("-")[0].trim()).filter(Boolean);
+}
+function itemDeadline(it) { return it.deadline || it.deadline_note || null; }
+
+/* ---------- 加载数据 ---------- */
+fetch("data/jobs.json").then(r => r.json()).then(data => {
+  STATE.updated = data.updated_at || "";
+  STATE.all = (data.items || []).filter(it => it && it.company);
+  $("updated-line").textContent = "更新于 " + STATE.updated + " · 共 " + STATE.all.length + " 条";
+  $("total-badge").style.display = "";
+  $("total-badge").textContent = STATE.all.length + " 条";
+  initFilters();
+  applyState();
+}).catch(e => {
+  $("updated-line").textContent = "数据加载失败,请确认 data/jobs.json 存在";
+  console.error(e);
+});
+
+/* ---------- 筛选器初始化 ---------- */
+const SOURCE_NAMES = {
+  nowcoder: "牛客日程", nowcoder_jobs: "牛客职位", iguopin: "国聘网",
+  xinjiang: "新疆师大", xinjiang_xju: "新疆大学", wechat: "公众号", manual: "手动录入",
+};
+function chipGroup(container, options, selected) {
+  const add = (name) => {
+    const b = document.createElement("button");
+    b.className = "btn"; b.textContent = name; b.dataset.v = name;
+    if (selected.includes(name)) b.classList.add("active");
+    b.onclick = () => {
+      const i = selected.indexOf(name);
+      if (i >= 0) selected.splice(i, 1); else selected.push(name);
+      container.querySelectorAll("button").forEach(
+        x => x.classList.toggle("active", selected.includes(x.dataset.v)));
+      resetAndApply();
+    };
+    container.appendChild(b);
+  };
+  options.forEach(add);
+}
+function initFilters() {
+  const types = new Set(), batches = new Set(), cities = new Set(), sources = new Set();
+  STATE.all.forEach(it => {
+    if (it.type) types.add(it.type);
+    if (it.batch) batches.add(it.batch);
+    if (it.source) sources.add(it.source);
+    parseCityList(it.location).forEach(c => cities.add(c));
+  });
+  chipGroup($("type-chips"), [...types].sort(), STATE.type);
+  chipGroup($("batch-chips"), [...batches].sort(), STATE.batch);
+  chipGroup($("source-chips"), [...sources].sort().map(s => SOURCE_NAMES[s] || s), STATE.source);
+  const hot = ["全国", "北京", "上海", "深圳", "广州", "杭州", "成都", "武汉", "南京", "西安", "乌鲁木齐", "新疆"];
+  const hotCities = hot.filter(h => h === "全国" || cities.has(h));
+  chipGroup($("city-chips"), hotCities, STATE.city);
+}
+
+/* ---------- 过滤与排序 ---------- */
+function filtered() {
+  const q = STATE.q.trim().toLowerCase();
+  let list = STATE.all.filter(it => {
+    if (STATE.type.length && !STATE.type.includes(it.type)) return false;
+    if (STATE.batch.length && !STATE.batch.includes(it.batch)) return false;
+    if (STATE.source.length) {
+      const sn = SOURCE_NAMES[it.source] || it.source;
+      if (!STATE.source.includes(sn)) return false;
+    }
+    if (STATE.city.length) {
+      const cl = parseCityList(it.location);
+      const ok = STATE.city.some(c => c === "全国" || cl.some(v => v.includes(c) || c.includes(v)));
+      if (!ok) return false;
+    }
+    if (STATE.weekOnly && !isNew(it.publish_date)) return false;
+    if (STATE.onlyOpen) {
+      const dl = itemDeadline(it);
+      if (dl && dl < daysAgo(0)) return false;
+    }
+    if (q) {
+      const text = [it.company, it.type, it.batch, it.location,
+        (it.positions || []).join(" "),
+        it.extra && (it.extra.major + " " + it.extra.education + " " + it.extra.salary) || ""]
+        .join(" ").toLowerCase();
+      if (!text.includes(q)) return false;
+    }
+    return true;
+  });
+  const now = new Date();
+  list.sort((a, b) => {
+    if (STATE.sort === "deadline") {
+      const da = itemDeadline(a), db = itemDeadline(b);
+      if (da && db) return da < db ? -1 : da > db ? 1 : 0;
+      if (da && !db) return -1;
+      if (!da && db) return 1;
+    }
+    const pa = a.publish_date || "", pb = b.publish_date || "";
+    if (pa !== pb) return pa > pb ? -1 : 1;
+    return (a.company || "").localeCompare(b.company || "", "zh");
+  });
+  return list;
+}
+
+/* ---------- 渲染 ---------- */
+function render() {
+  const list = filtered();
+  $("stats-info").textContent = `显示 ${list.length} / ${STATE.all.length} 条`;
+  const wrap = $("cards");
+  const start = STATE.page * STATE.PAGE_SIZE;
+  const slice = list.slice(0, start + STATE.PAGE_SIZE);
+  wrap.innerHTML = "";
+  if (!list.length) { $("empty").style.display = ""; $("more-btn").style.display = "none"; return; }
+  $("empty").style.display = "none";
+  slice.forEach(it => wrap.appendChild(card(it)));
+  $("more-btn").style.display = list.length > slice.length ? "" : "none";
+}
+
+function card(it) {
+  const div = document.createElement("div");
+  div.className = "card";
+  const dl = itemDeadline(it);
+  const today = daysAgo(0);
+  let dlHtml = "截止:未注明";
+  if (dl) {
+    const passed = dl < today;
+    const urgent = !passed && dl <= daysAgo(-7);
+    dlHtml = `<span class="dl${passed ? " passed" : urgent ? " urgent" : ""}">截止:${dl}${passed ? " (已截止)" : urgent ? " (即将截止)" : ""}</span>`;
+  }
+  const newTag = isNew(it.publish_date) ? '<span class="badge-new">本周新发布</span> ' : "";
+  const staleTag = it.stale ? '<span class="badge-stale">历史</span> ' : "";
+  const typeCls = {
+    "银行": "bank", "银行/金融": "bank", "国企/央企": "guoqi",
+    "互联网": "internet", "外企": "waiqi", "研究所": "yanjiu", "事业单位": "shiye",
+  }[it.type] || "";
+  const typeTag = it.type ? `<span class="tag ${typeCls}">${it.type}</span>` : "";
+  const sourceName = SOURCE_NAMES[it.source] || it.source;
+  const extra = it.extra || {};
+  let extrasHtml = "";
+  const sal = extra.salary ? ` · 薪资:${extra.salary}` : "";
+  if (extra.education || extra.major || extra.industry) {
+    extrasHtml = `<div class="extras">学历:${extra.education || "未注明"}${sal} · 专业:${extra.major || "不限"} · 行业:${extra.industry || "未注明"}</div>`;
+  } else if (extra.salary) {
+    extrasHtml = `<div class="extras">薪资:${extra.salary}</div>`;
+  }
+  const note = it.note ? `<div class="extras">📌 ${it.note}</div>` : "";
+  const posHtml = (it.positions || []).length
+    ? `<div class="pos">${(it.positions || []).slice(0, 12).map(p => `<span class="p">${p}</span>`).join("")}</div>`
+    : "";
+  const link = it.link ? `<a class="go-btn" href="${it.link}" target="_blank" rel="noopener">查看原链接 →</a>` : "";
+  const id = it.link || (it.company + it.batch);
+  const favOn = favs.has(id) ? " on" : "";
+  const appOn = applied.has(id) ? " on" : "";
+
+  div.innerHTML = `
+    <div class="actions">
+      <button class="icon-btn" data-act="applied" title="标记已投递">✓</button>
+      <button class="icon-btn" data-act="fav" title="收藏">★</button>
+    </div>
+    <div class="head">
+      <span class="name">${it.company}</span>
+      ${typeTag}<span class="tag">${it.batch || "校招"}</span>
+      ${newTag}${staleTag}
+    </div>
+    <div class="meta">
+      <span>📍 ${it.location || "地点未注明"}</span>
+      <span>📅 发布:${it.publish_date || "未注明"}</span>
+      <span>来源:${sourceName}</span>
+    </div>
+    ${posHtml}
+    <div class="dates">${dlHtml}</div>
+    ${extrasHtml}${note}
+    ${link}`;
+  const idKey = id;
+  div.querySelector('[data-act="fav"]').classList.toggle("on", favs.has(idKey));
+  div.querySelector('[data-act="applied"]').classList.toggle("on", applied.has(idKey));
+  div.querySelector('[data-act="fav"]').onclick = (e) => {
+    e.preventDefault();
+    if (favs.has(idKey)) favs.delete(idKey); else favs.add(idKey);
+    localStorage.setItem(KEY.fav, JSON.stringify([...favs]));
+    div.querySelector('[data-act="fav"]').classList.toggle("on", favs.has(idKey));
+    div.classList.toggle("applied", applied.has(idKey));
+  };
+  div.querySelector('[data-act="applied"]').onclick = (e) => {
+    e.preventDefault();
+    if (applied.has(idKey)) applied.delete(idKey); else applied.add(idKey);
+    localStorage.setItem(KEY.applied, JSON.stringify([...applied]));
+    div.querySelector('[data-act="applied"]').classList.toggle("on", applied.has(idKey));
+    div.classList.toggle("applied", applied.has(idKey));
+  };
+  if (dl && dl < today) div.classList.add("expired");
+  if (isNew(it.publish_date)) div.classList.add("new");
+  if (applied.has(idKey)) div.classList.add("applied");
+  return div;
+}
+
+/* ---------- 状态与 URL ---------- */
+function syncURL() {
+  const p = new URLSearchParams();
+  if (STATE.q) p.set("q", STATE.q);
+  if (STATE.type.length) p.set("type", STATE.type.join(","));
+  if (STATE.city.length) p.set("city", STATE.city.join(","));
+  if (STATE.batch.length) p.set("batch", STATE.batch.join(","));
+  if (STATE.source.length) p.set("source", STATE.source.join(","));
+  if (STATE.weekOnly) p.set("week", "1");
+  if (STATE.onlyOpen) p.set("open", "1");
+  if (STATE.sort !== "new") p.set("sort", STATE.sort);
+  const qs = p.toString();
+  history.replaceState(null, "", qs ? "?" + qs : location.pathname);
+  localStorage.setItem(KEY.prefs, JSON.stringify({
+    q: STATE.q, type: STATE.type, city: STATE.city, batch: STATE.batch, source: STATE.source,
+  }));
+}
+function readURL() {
+  const p = new URLSearchParams(location.search);
+  const getArr = (k) => {
+    const v = p.get(k);
+    return v ? v.split(",").map(s => s.trim()).filter(Boolean) : null;
+  };
+  const t = getArr("type"); if (t) STATE.type = t;
+  const c = getArr("city"); if (c) STATE.city = c;
+  const b = getArr("batch"); if (b) STATE.batch = b;
+  const s = getArr("source"); if (s) STATE.source = s;
+  const q = p.get("q"); if (q) STATE.q = q;
+  STATE.weekOnly = p.get("week") === "1";
+  STATE.onlyOpen = p.get("open") === "1";
+  const sort = p.get("sort"); if (sort) STATE.sort = sort;
+}
+function applyState() {
+  $("kw").value = STATE.q;
+  $("f-sort").value = STATE.sort;
+  $("week-btn").classList.toggle("active", STATE.weekOnly);
+  $("only-open-btn").classList.toggle("active", STATE.onlyOpen);
+  STATE.page = 0;
+  render();
+}
+function resetAndApply() {
+  STATE.page = 0;
+  syncURL();
+  render();
+}
+
+/* ---------- 事件绑定 ---------- */
+let kwTimer = null;
+$("kw").addEventListener("input", () => {
+  clearTimeout(kwTimer);
+  kwTimer = setTimeout(() => { STATE.q = $("kw").value; resetAndApply(); }, 250);
+});
+$("f-sort").onchange = () => { STATE.sort = $("f-sort").value; resetAndApply(); };
+$("week-btn").onclick = () => { STATE.weekOnly = !STATE.weekOnly; resetAndApply(); };
+$("only-open-btn").onclick = () => { STATE.onlyOpen = !STATE.onlyOpen; resetAndApply(); };
+$("more-btn").onclick = () => { STATE.page++; render(); };
+
+readURL();
+</script>
+</body>
+</html>

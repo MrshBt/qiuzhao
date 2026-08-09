@@ -1,0 +1,11 @@
+__pycache__/
+*.pyc
+scraper/run.log
+scraper/err.log
+scraper/f*.txt
+scraper/xj*.html
+scraper/o*.txt
+scraper/py*.txt
+scraper/debug*.json
+scraper/test_result.json
+scraper/check_data.py
