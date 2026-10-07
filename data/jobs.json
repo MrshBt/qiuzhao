@@ -1,6 +1,6 @@
 {
- "updated_at": "2026-10-06 05:56:37",
- "count": 10375,
+ "updated_at": "2026-10-07 05:29:54",
+ "count": 10407,
  "items": [
   {
    "company": "国检测试控股集团江苏京诚检测有限公司",
@@ -188,7 +188,8 @@
     "major": "计算机类、信息与通信工程类、自动化类、电气类",
     "industry": "其他制造业",
     "nature": "国企/央企"
-   }
+   },
+   "stale": true
   },
   {
    "company": "浙江省机电集团有限公司",
@@ -208,6 +209,102 @@
     "major": "机械类、电气类、土木工程类、建筑学类",
     "industry": "其他制造业",
     "nature": "国企/央企"
+   },
+   "stale": true
+  },
+  {
+   "company": "国家电力投资集团有限公司人才开发中心",
+   "type": "国企/央企",
+   "location": "上海-闵行区",
+   "positions": [
+    "基础产业人才开发"
+   ],
+   "publish_date": "2026-10-08",
+   "deadline": "2026-12-31",
+   "link": "https://www.iguopin.com/job/detail?id=221369198218053078",
+   "source": "iguopin",
+   "batch": "国聘",
+   "deadline_note": "",
+   "extra": {
+    "education": "硕士",
+    "major": "能源动力类、电气类、机械工程类、核科学与技术类",
+    "industry": "教育",
+    "nature": "国企/央企"
+   }
+  },
+  {
+   "company": "国家电力投资集团有限公司人才开发中心",
+   "type": "国企/央企",
+   "location": "上海-闵行区",
+   "positions": [
+    "数智化平台管理"
+   ],
+   "publish_date": "2026-10-08",
+   "deadline": "2026-12-31",
+   "link": "https://www.iguopin.com/job/detail?id=221369283932849641",
+   "source": "iguopin",
+   "batch": "国聘",
+   "deadline_note": "",
+   "extra": {
+    "education": "硕士",
+    "major": "机械类、电子信息类、计算机科学与技术类、电气类、能源动力类",
+    "industry": "教育",
+    "nature": "国企/央企"
+   }
+  },
+  {
+   "company": "长航集团武汉电机有限公司",
+   "type": "国企/央企",
+   "location": "武汉-江夏区",
+   "positions": [
+    "电机设计岗"
+   ],
+   "publish_date": "2026-10-07",
+   "deadline": "2026-10-31",
+   "link": "https://www.iguopin.com/job/detail?id=221502972390016478",
+   "source": "iguopin",
+   "batch": "国聘",
+   "deadline_note": "",
+   "extra": {
+    "education": "本科",
+    "major": "电气类、电气工程类、控制科学与工程类、电力技术类、自动化类",
+    "industry": "制造业",
+    "nature": "国企/央企"
+   }
+  },
+  {
+   "company": "联通数字科技有限公司",
+   "type": "民企",
+   "location": "全国各地",
+   "positions": [
+    "联通2027秋季校招岗位"
+   ],
+   "publish_date": "2026-10-06",
+   "deadline": null,
+   "link": "https://job.xju.edu.cn/Web/Employ/NetEmployDetails?rJMEJq-0sjXDQsQlYCLCkwoyPIU1NrVo-GsC6tKhobI=.shtml",
+   "source": "xinjiang_xju",
+   "batch": "本地招聘",
+   "deadline_note": "",
+   "extra": {}
+  },
+  {
+   "company": "奥克斯",
+   "type": "民企",
+   "location": "宁波",
+   "positions": [
+    "【2027秋】空调-软硬件工程师(J16431)"
+   ],
+   "publish_date": "2026-10-06",
+   "deadline": "2029-10-06",
+   "link": "https://www.nowcoder.com/jobs/detail/470036",
+   "source": "nowcoder_jobs",
+   "batch": "27届秋招",
+   "deadline_note": "",
+   "extra": {
+    "education": "本科",
+    "major": "",
+    "industry": "硬件",
+    "salary": ""
    }
   },
   {
@@ -241,26 +338,6 @@
    "publish_date": "2026-10-05",
    "deadline": "2026-10-10",
    "link": "https://www.iguopin.com/job/detail?id=221262248264336870",
-   "source": "iguopin",
-   "batch": "国聘",
-   "deadline_note": "",
-   "extra": {
-    "education": "本科",
-    "major": "理学全类、工学全类",
-    "industry": "电信、广播电视和卫星传输服务",
-    "nature": "国企/央企"
-   }
-  },
-  {
-   "company": "中国移动通信集团广东有限公司江门分公司",
-   "type": "国企/央企",
-   "location": "江门",
-   "positions": [
-    "解决方案经理"
-   ],
-   "publish_date": "2026-10-05",
-   "deadline": "2026-10-10",
-   "link": "https://www.iguopin.com/job/detail?id=221261987982607848",
    "source": "iguopin",
    "batch": "国聘",
    "deadline_note": "",
@@ -350,7 +427,8 @@
     "major": "机械类、电气类、自动化类、地质类、矿业类、安全科学与工程类、土木工程类、矿业工程类、电气工程类、机械工程类",
     "industry": "工程施工",
     "nature": "国企/央企"
-   }
+   },
+   "stale": true
   },
   {
    "company": "苏州中材建设有限公司",
@@ -370,7 +448,8 @@
     "major": "翻译类、国际商务类、会计类、工商管理类、外国语言文学类",
     "industry": "工程施工",
     "nature": "国企/央企"
-   }
+   },
+   "stale": true
   },
   {
    "company": "湖北三江航天江北机械工程有限公司",
@@ -390,7 +469,8 @@
     "major": "机械类",
     "industry": "航天",
     "nature": "国企/央企"
-   }
+   },
+   "stale": true
   },
   {
    "company": "国投金城冶金有限责任公司",
@@ -410,29 +490,7 @@
     "major": "材料与化工类、化学类、材料类、矿业类、冶金工程类、化学工程与技术类、矿业工程类",
     "industry": "其他采矿业",
     "nature": "国企/央企"
-   },
-   "stale": true
-  },
-  {
-   "company": "国投金城冶金有限责任公司",
-   "type": "国企/央企",
-   "location": "三门峡-灵宝市",
-   "positions": [
-    "稀贵金属提取"
-   ],
-   "publish_date": "2026-10-03",
-   "deadline": "2026-12-31",
-   "link": "https://www.iguopin.com/job/detail?id=220912238662255617",
-   "source": "iguopin",
-   "batch": "国聘",
-   "deadline_note": "",
-   "extra": {
-    "education": "博士",
-    "major": "材料与化工类、化学类、矿业类、冶金工程类、化学工程与技术类",
-    "industry": "其他采矿业",
-    "nature": "国企/央企"
-   },
-   "stale": true
+   }
   },
   {
    "company": "云南融熙财务管理咨询有限公司",
@@ -473,25 +531,24 @@
     "major": "电子信息类、自动化类、计算机科学与技术类、数学类、电子科学与技术类、遥感科学与技术类、计算机类、电子科学与技术类、信息与通信工程类、统计学类、计算机科学与技术类、智能科学与技术类",
     "industry": "电信、广播电视和卫星传输服务",
     "nature": "国企/央企"
-   },
-   "stale": true
+   }
   },
   {
    "company": "华润电力控股有限公司",
    "type": "国企/央企",
-   "location": "广州",
+   "location": "广州-南沙区",
    "positions": [
-    "市场营销岗HNSD/管理培训生"
+    "交易管理岗HNSD/管理培训生"
    ],
    "publish_date": "2026-10-02",
    "deadline": "2026-12-31",
-   "link": "https://www.iguopin.com/job/detail?id=220824255686771937",
+   "link": "https://www.iguopin.com/job/detail?id=220824653910769668",
    "source": "iguopin",
    "batch": "国聘",
    "deadline_note": "",
    "extra": {
-    "education": "本科",
-    "major": "电力技术类",
+    "education": "硕士",
+    "major": "电力技术类、金融学类、统计学类、计算机科学与技术类",
     "industry": "电力、热力生产和供应业",
     "nature": "国企/央企"
    }
@@ -793,19 +850,19 @@
   {
    "company": "华润电力控股有限公司",
    "type": "国企/央企",
-   "location": "巴音郭楞",
+   "location": "乌鲁木齐",
    "positions": [
-    "电气管理工程师XJBZ/管理培训生"
+    "财务管理岗XJBZ/管理培训生"
    ],
    "publish_date": "2026-10-01",
    "deadline": "2026-11-15",
-   "link": "https://www.iguopin.com/job/detail?id=220631041784677601",
+   "link": "https://www.iguopin.com/job/detail?id=220579608410456068",
    "source": "iguopin",
    "batch": "国聘",
    "deadline_note": "",
    "extra": {
-    "education": "本科",
-    "major": "电气类、电气工程类、电力技术类、新能源发电工程类",
+    "education": "硕士",
+    "major": "审计类、会计类、税务类、财务会计类",
     "industry": "电力、热力生产和供应业",
     "nature": "国企/央企"
    }
@@ -815,17 +872,17 @@
    "type": "国企/央企",
    "location": "巴音郭楞",
    "positions": [
-    "新能源运维工程师XJBZ/管理培训生"
+    "电气管理工程师XJBZ/管理培训生"
    ],
    "publish_date": "2026-10-01",
    "deadline": "2026-11-15",
-   "link": "https://www.iguopin.com/job/detail?id=220633347074818052",
+   "link": "https://www.iguopin.com/job/detail?id=220585729024065540",
    "source": "iguopin",
    "batch": "国聘",
    "deadline_note": "",
    "extra": {
     "education": "本科",
-    "major": "新能源发电工程类、电气类、电气工程类、自动化类、机电设备类",
+    "major": "电气类、电气工程类、电力技术类、热能与发电工程类、能源动力类",
     "industry": "电力、热力生产和供应业",
     "nature": "国企/央企"
    }
@@ -835,17 +892,17 @@
    "type": "国企/央企",
    "location": "乌鲁木齐",
    "positions": [
-    "招标采购岗XJBZ/管理培训生"
+    "党务管理岗XJBZ/管理培训生"
    ],
    "publish_date": "2026-10-01",
    "deadline": "2026-11-15",
-   "link": "https://www.iguopin.com/job/detail?id=220582286825882608",
+   "link": "https://www.iguopin.com/job/detail?id=220576218305528816",
    "source": "iguopin",
    "batch": "国聘",
    "deadline_note": "",
    "extra": {
     "education": "本科",
-    "major": "经济学类、经济与贸易类、审计类、管理科学与工程类、物流管理与工程类、法学类、电力技术类",
+    "major": "专业不限",
     "industry": "电力、热力生产和供应业",
     "nature": "国企/央企"
    }
@@ -855,17 +912,37 @@
    "type": "国企/央企",
    "location": "巴音郭楞",
    "positions": [
-    "新能源运维工程师XJBZ / 管理培训生"
+    "风机管理工程师XJBZ/管理培训生"
    ],
    "publish_date": "2026-10-01",
    "deadline": "2026-11-15",
-   "link": "https://www.iguopin.com/job/detail?id=220639393499579468",
+   "link": "https://www.iguopin.com/job/detail?id=220631821522568268",
    "source": "iguopin",
    "batch": "国聘",
    "deadline_note": "",
    "extra": {
     "education": "本科",
-    "major": "新能源发电工程类、电气类、电气工程类、自动化类、机电设备类",
+    "major": "电气类、电气工程类、新能源发电工程类、机械类、机械工程类、机械设计制造类、机电设备类、能源动力类、自动化类",
+    "industry": "电力、热力生产和供应业",
+    "nature": "国企/央企"
+   }
+  },
+  {
+   "company": "华润电力控股有限公司",
+   "type": "国企/央企",
+   "location": "乌鲁木齐",
+   "positions": [
+    "综合事务岗XJBZ/管理培训生"
+   ],
+   "publish_date": "2026-10-01",
+   "deadline": "2026-11-15",
+   "link": "https://www.iguopin.com/job/detail?id=220628711446151172",
+   "source": "iguopin",
+   "batch": "国聘",
+   "deadline_note": "",
+   "extra": {
+    "education": "本科",
+    "major": "专业不限",
     "industry": "电力、热力生产和供应业",
     "nature": "国企/央企"
    }
@@ -875,17 +952,97 @@
    "type": "国企/央企",
    "location": "巴音郭楞",
    "positions": [
-    "新能源运维工程师 XJBZ/管理培训生"
+    "土建管理工程师XJBZ/管理培训生"
    ],
    "publish_date": "2026-10-01",
    "deadline": "2026-11-15",
-   "link": "https://www.iguopin.com/job/detail?id=220639107867476989",
+   "link": "https://www.iguopin.com/job/detail?id=220630566435815428",
    "source": "iguopin",
    "batch": "国聘",
    "deadline_note": "",
    "extra": {
     "education": "本科",
-    "major": "新能源发电工程类、电气类、自动化类",
+    "major": "土木工程类、建筑学类、市政工程类、工程管理类、建设工程管理类",
+    "industry": "电力、热力生产和供应业",
+    "nature": "国企/央企"
+   }
+  },
+  {
+   "company": "华润电力控股有限公司",
+   "type": "国企/央企",
+   "location": "巴音郭楞",
+   "positions": [
+    "品牌传讯岗 XJBZ/管理培训生"
+   ],
+   "publish_date": "2026-10-01",
+   "deadline": "2026-11-15",
+   "link": "https://www.iguopin.com/job/detail?id=220636205224559692",
+   "source": "iguopin",
+   "batch": "国聘",
+   "deadline_note": "",
+   "extra": {
+    "education": "硕士",
+    "major": "专业不限",
+    "industry": "电力、热力生产和供应业",
+    "nature": "国企/央企"
+   }
+  },
+  {
+   "company": "华润电力控股有限公司",
+   "type": "国企/央企",
+   "location": "巴音郭楞",
+   "positions": [
+    "档案管理岗XJBZ/管理培训生"
+   ],
+   "publish_date": "2026-10-01",
+   "deadline": "2026-11-15",
+   "link": "https://www.iguopin.com/job/detail?id=220635616075842557",
+   "source": "iguopin",
+   "batch": "国聘",
+   "deadline_note": "",
+   "extra": {
+    "education": "本科",
+    "major": "专业不限",
+    "industry": "电力、热力生产和供应业",
+    "nature": "国企/央企"
+   }
+  },
+  {
+   "company": "华润电力控股有限公司",
+   "type": "国企/央企",
+   "location": "乌鲁木齐",
+   "positions": [
+    "技经管理岗XJBZ /管理培训生"
+   ],
+   "publish_date": "2026-10-01",
+   "deadline": "2026-11-15",
+   "link": "https://www.iguopin.com/job/detail?id=220638448506109956",
+   "source": "iguopin",
+   "batch": "国聘",
+   "deadline_note": "",
+   "extra": {
+    "education": "本科",
+    "major": "法学类、经济学类、财政学类、经济与贸易类、管理科学与工程类、会计类、电力技术类",
+    "industry": "电力、热力生产和供应业",
+    "nature": "国企/央企"
+   }
+  },
+  {
+   "company": "华润电力控股有限公司",
+   "type": "国企/央企",
+   "location": "巴音郭楞",
+   "positions": [
+    "电气管理工程师 XJBZ/ 管理培训生"
+   ],
+   "publish_date": "2026-10-01",
+   "deadline": "2026-11-15",
+   "link": "https://www.iguopin.com/job/detail?id=220637563877065804",
+   "source": "iguopin",
+   "batch": "国聘",
+   "deadline_note": "",
+   "extra": {
+    "education": "本科",
+    "major": "电气类、电气工程类、新能源发电工程类、电力技术类",
     "industry": "电力、热力生产和供应业",
     "nature": "国企/央企"
    }
@@ -974,18 +1131,19 @@
     "major": "金融学类",
     "industry": "其他金融业",
     "nature": "国企/央企"
-   }
+   },
+   "stale": true
   },
   {
    "company": "中移铁通有限公司",
    "type": "国企/央企",
    "location": "中国",
    "positions": [
-    "中移铁通广东分公司-维护技术类(广东省内)"
+    "中移铁通广东分公司-数智工程类(广东省内)"
    ],
    "publish_date": "2026-10-01",
    "deadline": "2026-10-10",
-   "link": "https://www.iguopin.com/job/detail?id=218209243977745958",
+   "link": "https://www.iguopin.com/job/detail?id=217624796790261203",
    "source": "iguopin",
    "batch": "国聘",
    "deadline_note": "",
@@ -1081,6 +1239,166 @@
    "stale": true
   },
   {
+   "company": "香港中旅汽车服务有限公司",
+   "type": "国企/央企",
+   "location": "香港-中西区",
+   "positions": [
+    "财务岗"
+   ],
+   "publish_date": "2026-09-30",
+   "deadline": "2026-12-31",
+   "link": "https://www.iguopin.com/job/detail?id=220285213148709887",
+   "source": "iguopin",
+   "batch": "国聘",
+   "deadline_note": "",
+   "extra": {
+    "education": "本科",
+    "major": "详见职位描述",
+    "industry": "道路运输业",
+    "nature": "国企/央企"
+   }
+  },
+  {
+   "company": "香港中旅汽车服务有限公司",
+   "type": "国企/央企",
+   "location": "香港-中西区",
+   "positions": [
+    "市场营销岗"
+   ],
+   "publish_date": "2026-09-30",
+   "deadline": "2026-12-31",
+   "link": "https://www.iguopin.com/job/detail?id=220285213668803583",
+   "source": "iguopin",
+   "batch": "国聘",
+   "deadline_note": "",
+   "extra": {
+    "education": "本科",
+    "major": "详见职位描述",
+    "industry": "道路运输业",
+    "nature": "国企/央企"
+   }
+  },
+  {
+   "company": "香港中旅汽车服务有限公司",
+   "type": "国企/央企",
+   "location": "香港-中西区",
+   "positions": [
+    "营运管理岗"
+   ],
+   "publish_date": "2026-09-30",
+   "deadline": "2026-12-31",
+   "link": "https://www.iguopin.com/job/detail?id=220285214205674495",
+   "source": "iguopin",
+   "batch": "国聘",
+   "deadline_note": "",
+   "extra": {
+    "education": "本科",
+    "major": "详见职位描述",
+    "industry": "道路运输业",
+    "nature": "国企/央企"
+   }
+  },
+  {
+   "company": "香港中旅发展有限公司",
+   "type": "国企/央企",
+   "location": "香港-中西区",
+   "positions": [
+    "青春试翼岗（财务管理）"
+   ],
+   "publish_date": "2026-09-30",
+   "deadline": "2026-12-31",
+   "link": "https://www.iguopin.com/job/detail?id=220284581939511300",
+   "source": "iguopin",
+   "batch": "国聘",
+   "deadline_note": "",
+   "extra": {
+    "education": "本科",
+    "major": "详见职位描述",
+    "industry": "居民服务业",
+    "nature": "国企/央企"
+   }
+  },
+  {
+   "company": "香港中旅发展有限公司",
+   "type": "国企/央企",
+   "location": "香港-中西区",
+   "positions": [
+    "青春试翼岗（市场品宣、活动策划方向）"
+   ],
+   "publish_date": "2026-09-30",
+   "deadline": "2026-12-31",
+   "link": "https://www.iguopin.com/job/detail?id=220285217275905023",
+   "source": "iguopin",
+   "batch": "国聘",
+   "deadline_note": "",
+   "extra": {
+    "education": "本科",
+    "major": "详见职位描述",
+    "industry": "居民服务业",
+    "nature": "国企/央企"
+   }
+  },
+  {
+   "company": "香港中旅协记货仓有限公司",
+   "type": "国企/央企",
+   "location": "香港-九龙城区",
+   "positions": [
+    "仓储服务部未来之星"
+   ],
+   "publish_date": "2026-09-30",
+   "deadline": "2026-12-31",
+   "link": "https://www.iguopin.com/job/detail?id=220284582929367044",
+   "source": "iguopin",
+   "batch": "国聘",
+   "deadline_note": "",
+   "extra": {
+    "education": "本科",
+    "major": "详见职位描述",
+    "industry": "装卸搬运和仓储业",
+    "nature": "国企/央企"
+   }
+  },
+  {
+   "company": "香港中旅协记货仓有限公司",
+   "type": "国企/央企",
+   "location": "香港-中西区",
+   "positions": [
+    "财务部未来之星"
+   ],
+   "publish_date": "2026-09-30",
+   "deadline": "2026-12-31",
+   "link": "https://www.iguopin.com/job/detail?id=220284583399129092",
+   "source": "iguopin",
+   "batch": "国聘",
+   "deadline_note": "",
+   "extra": {
+    "education": "本科",
+    "major": "详见职位描述",
+    "industry": "装卸搬运和仓储业",
+    "nature": "国企/央企"
+   }
+  },
+  {
+   "company": "重庆丽苑大酒店有限公司",
+   "type": "国企/央企",
+   "location": "重庆",
+   "positions": [
+    "前台接待"
+   ],
+   "publish_date": "2026-09-30",
+   "deadline": "2026-12-31",
+   "link": "https://www.iguopin.com/job/detail?id=220284566034710532",
+   "source": "iguopin",
+   "batch": "国聘",
+   "deadline_note": "",
+   "extra": {
+    "education": "本科",
+    "major": "专业不限",
+    "industry": "住宿业",
+    "nature": "国企/央企"
+   }
+  },
+  {
    "company": "辽宁港口集团有限公司",
    "type": "国企/央企",
    "location": "营口",
@@ -1098,7 +1416,8 @@
     "major": "经济学全类",
     "industry": "水上运输业",
     "nature": "国企/央企"
-   }
+   },
+   "stale": true
   },
   {
    "company": "辽宁港口集团有限公司",
@@ -1118,7 +1437,8 @@
     "major": "交通运输全类",
     "industry": "水上运输业",
     "nature": "国企/央企"
-   }
+   },
+   "stale": true
   },
   {
    "company": "辽宁港口集团有限公司",
@@ -1138,7 +1458,8 @@
     "major": "计算机类",
     "industry": "水上运输业",
     "nature": "国企/央企"
-   }
+   },
+   "stale": true
   },
   {
    "company": "贵州航天凯星智能传动有限公司",
@@ -1221,6 +1542,46 @@
    }
   },
   {
+   "company": "贵州航天凯星智能传动有限公司",
+   "type": "国企/央企",
+   "location": "遵义-汇川区",
+   "positions": [
+    "液压系统工程师"
+   ],
+   "publish_date": "2026-09-30",
+   "deadline": "2026-12-28",
+   "link": "https://www.iguopin.com/job/detail?id=220522415770304516",
+   "source": "iguopin",
+   "batch": "国聘",
+   "deadline_note": "",
+   "extra": {
+    "education": "硕士",
+    "major": "机械类",
+    "industry": "航天",
+    "nature": "国企/央企"
+   }
+  },
+  {
+   "company": "贵州航天凯星智能传动有限公司",
+   "type": "国企/央企",
+   "location": "遵义-汇川区",
+   "positions": [
+    "总体设计及应用工程师"
+   ],
+   "publish_date": "2026-09-30",
+   "deadline": "2026-12-28",
+   "link": "https://www.iguopin.com/job/detail?id=220522415753592836",
+   "source": "iguopin",
+   "batch": "国聘",
+   "deadline_note": "",
+   "extra": {
+    "education": "硕士",
+    "major": "机械类",
+    "industry": "航天",
+    "nature": "国企/央企"
+   }
+  },
+  {
    "company": "航天新长征大道科技有限公司",
    "type": "国企/央企",
    "location": "北京-丰台区",
@@ -1238,19 +1599,18 @@
     "major": "电子科学与技术类、信息与通信工程类、电气工程类、自动化类、机械工程类",
     "industry": "航天",
     "nature": "国企/央企"
-   },
-   "stale": true
+   }
   },
   {
    "company": "联通数据智能有限公司",
    "type": "国企/央企",
    "location": "杭州",
    "positions": [
-    "通用图像与AIGC鉴伪实习生"
+    "人脸Deepfake与视频鉴伪实习生"
    ],
    "publish_date": "2026-09-30",
-   "deadline": "2026-12-01",
-   "link": "https://www.iguopin.com/job/detail?id=220537677802374141",
+   "deadline": "2026-12-28",
+   "link": "https://www.iguopin.com/job/detail?id=220538055222625505",
    "source": "iguopin",
    "batch": "国聘",
    "deadline_note": "",
@@ -1266,11 +1626,11 @@
    "type": "国企/央企",
    "location": "杭州",
    "positions": [
-    "人脸Deepfake与视频鉴伪实习生"
+    "通用图像与AIGC鉴伪实习生"
    ],
    "publish_date": "2026-09-30",
-   "deadline": "2026-12-28",
-   "link": "https://www.iguopin.com/job/detail?id=220538055222625505",
+   "deadline": "2026-12-01",
+   "link": "https://www.iguopin.com/job/detail?id=220537677802374141",
    "source": "iguopin",
    "batch": "国聘",
    "deadline_note": "",
@@ -1342,109 +1702,264 @@
    }
   },
   {
-   "company": "海南省出版发行集团有限公司",
+   "company": "联通数据智能有限公司",
    "type": "国企/央企",
-   "location": "海口",
+   "location": "杭州",
    "positions": [
-    "出纳-B02"
+    "AIGC多模态内容痕迹分析与可解释溯源实习生"
    ],
    "publish_date": "2026-09-30",
-   "deadline": "2026-10-15",
-   "link": "https://www.iguopin.com/job/detail?id=220525291200577540",
+   "deadline": "2026-12-28",
+   "link": "https://www.iguopin.com/job/detail?id=220538285020151812",
+   "source": "iguopin",
+   "batch": "国聘",
+   "deadline_note": "",
+   "extra": {
+    "education": "硕士",
+    "major": "",
+    "industry": "软件和信息技术服务业",
+    "nature": "国企/央企"
+   }
+  },
+  {
+   "company": "福建省旅游有限公司",
+   "type": "国企/央企",
+   "location": "福州-鼓楼区",
+   "positions": [
+    "设计策划岗"
+   ],
+   "publish_date": "2026-09-30",
+   "deadline": "2026-12-31",
+   "link": "https://www.iguopin.com/job/detail?id=220285413720327169",
    "source": "iguopin",
    "batch": "国聘",
    "deadline_note": "",
    "extra": {
     "education": "本科",
-    "major": "审计类、详见职位描述、财务会计类",
-    "industry": "新闻和出版业",
+    "major": "旅游全类",
+    "industry": "商务服务业",
     "nature": "国企/央企"
-   },
-   "stale": true
+   }
+  },
+  {
+   "company": "澳門維景酒店",
+   "type": "国企/央企",
+   "location": "中国",
+   "positions": [
+    "文員"
+   ],
+   "publish_date": "2026-09-30",
+   "deadline": "2026-12-31",
+   "link": "https://www.iguopin.com/job/detail?id=220284570279346180",
+   "source": "iguopin",
+   "batch": "国聘",
+   "deadline_note": "",
+   "extra": {
+    "education": "本科",
+    "major": "专业不限",
+    "industry": "住宿业",
+    "nature": "国企/央企"
+   }
+  },
+  {
+   "company": "湾仔睿景酒店",
+   "type": "国企/央企",
+   "location": "香港-湾仔区",
+   "positions": [
+    "运营岗"
+   ],
+   "publish_date": "2026-09-30",
+   "deadline": "2026-12-31",
+   "link": "https://www.iguopin.com/job/detail?id=220284578684731396",
+   "source": "iguopin",
+   "batch": "国聘",
+   "deadline_note": "",
+   "extra": {
+    "education": "本科",
+    "major": "专业不限",
+    "industry": "住宿业",
+    "nature": "国企/央企"
+   }
+  },
+  {
+   "company": "深圳维景京华酒店有限公司",
+   "type": "国企/央企",
+   "location": "深圳-罗湖区",
+   "positions": [
+    "助理"
+   ],
+   "publish_date": "2026-09-30",
+   "deadline": "2026-12-31",
+   "link": "https://www.iguopin.com/job/detail?id=220284572829483012",
+   "source": "iguopin",
+   "batch": "国聘",
+   "deadline_note": "",
+   "extra": {
+    "education": "本科",
+    "major": "专业不限",
+    "industry": "住宿业",
+    "nature": "国企/央企"
+   }
+  },
+  {
+   "company": "深圳维景京华酒店有限公司",
+   "type": "国企/央企",
+   "location": "深圳-罗湖区",
+   "positions": [
+    "前台接待"
+   ],
+   "publish_date": "2026-09-30",
+   "deadline": "2026-12-31",
+   "link": "https://www.iguopin.com/job/detail?id=220284573349576708",
+   "source": "iguopin",
+   "batch": "国聘",
+   "deadline_note": "",
+   "extra": {
+    "education": "本科",
+    "major": "专业不限",
+    "industry": "住宿业",
+    "nature": "国企/央企"
+   }
+  },
+  {
+   "company": "深圳维景京华酒店有限公司",
+   "type": "国企/央企",
+   "location": "深圳-罗湖区",
+   "positions": [
+    "房务中心文员"
+   ],
+   "publish_date": "2026-09-30",
+   "deadline": "2026-12-31",
+   "link": "https://www.iguopin.com/job/detail?id=220284573836115972",
+   "source": "iguopin",
+   "batch": "国聘",
+   "deadline_note": "",
+   "extra": {
+    "education": "本科",
+    "major": "专业不限",
+    "industry": "住宿业",
+    "nature": "国企/央企"
+   }
+  },
+  {
+   "company": "深圳维景京华酒店有限公司",
+   "type": "国企/央企",
+   "location": "深圳-罗湖区",
+   "positions": [
+    "贵宾接待专员"
+   ],
+   "publish_date": "2026-09-30",
+   "deadline": "2026-12-31",
+   "link": "https://www.iguopin.com/job/detail?id=220284574372986884",
+   "source": "iguopin",
+   "batch": "国聘",
+   "deadline_note": "",
+   "extra": {
+    "education": "本科",
+    "major": "专业不限",
+    "industry": "住宿业",
+    "nature": "国企/央企"
+   }
+  },
+  {
+   "company": "海口睿景酒店管理有限责任公司",
+   "type": "国企/央企",
+   "location": "中国",
+   "positions": [
+    "前台服务大使"
+   ],
+   "publish_date": "2026-09-30",
+   "deadline": "2026-12-31",
+   "link": "https://www.iguopin.com/job/detail?id=220284571369865220",
+   "source": "iguopin",
+   "batch": "国聘",
+   "deadline_note": "",
+   "extra": {
+    "education": "本科",
+    "major": "专业不限",
+    "industry": "住宿业",
+    "nature": "国企/央企"
+   }
   },
   {
    "company": "海南省出版发行集团有限公司",
    "type": "国企/央企",
    "location": "海口",
    "positions": [
-    "会计-B01"
+    "安全/物业管理员-B07"
    ],
    "publish_date": "2026-09-30",
    "deadline": "2026-10-15",
-   "link": "https://www.iguopin.com/job/detail?id=220525316047635458",
+   "link": "https://www.iguopin.com/job/detail?id=220525634462417921",
    "source": "iguopin",
    "batch": "国聘",
    "deadline_note": "",
    "extra": {
-    "education": "本科",
+    "education": "大专",
+    "major": "详见职位描述",
+    "industry": "新闻和出版业",
+    "nature": "国企/央企"
+   }
+  },
+  {
+   "company": "海南省出版发行集团有限公司",
+   "type": "国企/央企",
+   "location": "海口",
+   "positions": [
+    "会计-B05"
+   ],
+   "publish_date": "2026-09-30",
+   "deadline": "2026-10-15",
+   "link": "https://www.iguopin.com/job/detail?id=220525697662190668",
+   "source": "iguopin",
+   "batch": "国聘",
+   "deadline_note": "",
+   "extra": {
+    "education": "硕士",
     "major": "财务会计类、审计类、详见职位描述",
     "industry": "新闻和出版业",
     "nature": "国企/央企"
-   },
-   "stale": true
+   }
   },
   {
-   "company": "海南省出版发行集团有限公司",
+   "company": "海免（海口）免税店有限公司",
    "type": "国企/央企",
-   "location": "海口",
+   "location": "海口-琼山区",
    "positions": [
-    "编辑（养生类）-B13"
+    "销售岗"
    ],
    "publish_date": "2026-09-30",
-   "deadline": "2026-10-15",
-   "link": "https://www.iguopin.com/job/detail?id=220525441272775682",
+   "deadline": "2026-12-31",
+   "link": "https://www.iguopin.com/job/detail?id=220284534745202692",
    "source": "iguopin",
    "batch": "国聘",
    "deadline_note": "",
    "extra": {
     "education": "本科",
-    "major": "药学类、详见职位描述、中医学类、临床医学类",
-    "industry": "新闻和出版业",
+    "major": "专业不限",
+    "industry": "零售业",
     "nature": "国企/央企"
-   },
-   "stale": true
+   }
   },
   {
-   "company": "海南省出版发行集团有限公司",
+   "company": "海免海口美兰机场免税店有限公司",
    "type": "国企/央企",
-   "location": "海口",
+   "location": "海口-美兰区",
    "positions": [
-    "行政员-B10"
+    "初级销售专员"
    ],
    "publish_date": "2026-09-30",
-   "deadline": "2026-10-15",
-   "link": "https://www.iguopin.com/job/detail?id=220525579634476033",
+   "deadline": "2026-12-31",
+   "link": "https://www.iguopin.com/job/detail?id=220284534158000132",
    "source": "iguopin",
    "batch": "国聘",
    "deadline_note": "",
    "extra": {
     "education": "本科",
-    "major": "详见职位描述",
-    "industry": "新闻和出版业",
+    "major": "专业不限",
+    "industry": "零售业",
     "nature": "国企/央企"
-   },
-   "stale": true
-  },
-  {
-   "company": "海南省出版发行集团有限公司",
-   "type": "国企/央企",
-   "location": "海口",
-   "positions": [
-    "编辑-B08"
-   ],
-   "publish_date": "2026-09-30",
-   "deadline": "2026-10-15",
-   "link": "https://www.iguopin.com/job/detail?id=220525041572381920",
-   "source": "iguopin",
-   "batch": "国聘",
-   "deadline_note": "",
-   "extra": {
-    "education": "本科",
-    "major": "详见职位描述",
-    "industry": "新闻和出版业",
-    "nature": "国企/央企"
-   },
-   "stale": true
+   }
   },
   {
    "company": "浙江浙能电力工程技术有限公司",
@@ -1487,26 +2002,6 @@
    "type": "国企/央企",
    "location": "武汉",
    "positions": [
-    "工程经理"
-   ],
-   "publish_date": "2026-09-30",
-   "deadline": "2026-12-28",
-   "link": "https://www.iguopin.com/job/detail?id=220517480349565953",
-   "source": "iguopin",
-   "batch": "国聘",
-   "deadline_note": "",
-   "extra": {
-    "education": "本科",
-    "major": "机械类、能源动力类",
-    "industry": "制造业",
-    "nature": "国企/央企"
-   }
-  },
-  {
-   "company": "武汉武锅能源工程有限公司",
-   "type": "国企/央企",
-   "location": "武汉",
-   "positions": [
     "锅炉设计"
    ],
    "publish_date": "2026-09-30",
@@ -1518,6 +2013,26 @@
    "extra": {
     "education": "硕士",
     "major": "能源动力类",
+    "industry": "制造业",
+    "nature": "国企/央企"
+   }
+  },
+  {
+   "company": "武汉武锅能源工程有限公司",
+   "type": "国企/央企",
+   "location": "武汉",
+   "positions": [
+    "工程经理"
+   ],
+   "publish_date": "2026-09-30",
+   "deadline": "2026-12-28",
+   "link": "https://www.iguopin.com/job/detail?id=220517480349565953",
+   "source": "iguopin",
+   "batch": "国聘",
+   "deadline_note": "",
+   "extra": {
+    "education": "本科",
+    "major": "机械类、能源动力类",
     "industry": "制造业",
     "nature": "国企/央企"
    }
@@ -1583,6 +2098,106 @@
    }
   },
   {
+   "company": "武汉武锅能源工程有限公司",
+   "type": "国企/央企",
+   "location": "武汉",
+   "positions": [
+    "审计"
+   ],
+   "publish_date": "2026-09-30",
+   "deadline": "2026-12-28",
+   "link": "https://www.iguopin.com/job/detail?id=220518745838191840",
+   "source": "iguopin",
+   "batch": "国聘",
+   "deadline_note": "",
+   "extra": {
+    "education": "硕士",
+    "major": "会计类",
+    "industry": "制造业",
+    "nature": "国企/央企"
+   }
+  },
+  {
+   "company": "武汉武锅能源工程有限公司",
+   "type": "国企/央企",
+   "location": "武汉-江夏区",
+   "positions": [
+    "焊接工艺员"
+   ],
+   "publish_date": "2026-09-30",
+   "deadline": "2026-12-28",
+   "link": "https://www.iguopin.com/job/detail?id=220517805592675552",
+   "source": "iguopin",
+   "batch": "国聘",
+   "deadline_note": "",
+   "extra": {
+    "education": "本科",
+    "major": "物理学类、材料科学与工程类",
+    "industry": "制造业",
+    "nature": "国企/央企"
+   }
+  },
+  {
+   "company": "杭州维景大酒店有限公司",
+   "type": "国企/央企",
+   "location": "杭州-上城区",
+   "positions": [
+    "餐饮储备"
+   ],
+   "publish_date": "2026-09-30",
+   "deadline": "2026-12-31",
+   "link": "https://www.iguopin.com/job/detail?id=220284560347234308",
+   "source": "iguopin",
+   "batch": "国聘",
+   "deadline_note": "",
+   "extra": {
+    "education": "本科",
+    "major": "专业不限",
+    "industry": "住宿业",
+    "nature": "国企/央企"
+   }
+  },
+  {
+   "company": "杭州维景大酒店有限公司",
+   "type": "国企/央企",
+   "location": "杭州-上城区",
+   "positions": [
+    "大堂副理"
+   ],
+   "publish_date": "2026-09-30",
+   "deadline": "2026-12-31",
+   "link": "https://www.iguopin.com/job/detail?id=220284561504862212",
+   "source": "iguopin",
+   "batch": "国聘",
+   "deadline_note": "",
+   "extra": {
+    "education": "本科",
+    "major": "专业不限",
+    "industry": "住宿业",
+    "nature": "国企/央企"
+   }
+  },
+  {
+   "company": "杭州维景大酒店有限公司",
+   "type": "国企/央企",
+   "location": "杭州-上城区",
+   "positions": [
+    "工程储备"
+   ],
+   "publish_date": "2026-09-30",
+   "deadline": "2026-12-31",
+   "link": "https://www.iguopin.com/job/detail?id=220377421533152480",
+   "source": "iguopin",
+   "batch": "国聘",
+   "deadline_note": "",
+   "extra": {
+    "education": "本科",
+    "major": "专业不限",
+    "industry": "住宿业",
+    "nature": "国企/央企"
+   }
+  },
+  {
    "company": "易普力股份有限公司",
    "type": "国企/央企",
    "location": "长沙-岳麓区",
@@ -1643,6 +2258,46 @@
    }
   },
   {
+   "company": "易普力股份有限公司",
+   "type": "国企/央企",
+   "location": "长沙-岳麓区",
+   "positions": [
+    "合规审计岗"
+   ],
+   "publish_date": "2026-09-30",
+   "deadline": "2026-12-01",
+   "link": "https://www.iguopin.com/job/detail?id=220495915050337287",
+   "source": "iguopin",
+   "batch": "国聘",
+   "deadline_note": "",
+   "extra": {
+    "education": "本科",
+    "major": "法学类",
+    "industry": "其他采矿业",
+    "nature": "国企/央企"
+   }
+  },
+  {
+   "company": "易普力股份有限公司",
+   "type": "国企/央企",
+   "location": "长沙-岳麓区",
+   "positions": [
+    "机电设备岗"
+   ],
+   "publish_date": "2026-09-30",
+   "deadline": "2026-12-01",
+   "link": "https://www.iguopin.com/job/detail?id=220495915033625607",
+   "source": "iguopin",
+   "batch": "国聘",
+   "deadline_note": "",
+   "extra": {
+    "education": "本科",
+    "major": "机械类",
+    "industry": "其他采矿业",
+    "nature": "国企/央企"
+   }
+  },
+  {
    "company": "拼多多集团-PDD",
    "type": "互联网",
    "location": "上海",
@@ -1681,8 +2336,7 @@
     "major": "专业不限",
     "industry": "房地产业",
     "nature": "国企/央企"
-   },
-   "stale": true
+   }
   },
   {
    "company": "成都华为技术有限公司",
@@ -1909,6 +2563,26 @@
    }
   },
   {
+   "company": "喀什市同汇人力资源服务有限公司",
+   "type": "国企/央企",
+   "location": "喀什-喀什市",
+   "positions": [
+    "见习生（本单位招聘）"
+   ],
+   "publish_date": "2026-09-30",
+   "deadline": "2026-10-30",
+   "link": "https://www.iguopin.com/job/detail?id=220509805243007999",
+   "source": "iguopin",
+   "batch": "国聘",
+   "deadline_note": "",
+   "extra": {
+    "education": "本科",
+    "major": "",
+    "industry": "商务服务业",
+    "nature": "国企/央企"
+   }
+  },
+  {
    "company": "吉林省启盛人力资源有限公司",
    "type": "民企",
    "location": "长春",
@@ -1929,441 +2603,61 @@
    }
   },
   {
-   "company": "华润电力控股有限公司",
+   "company": "南京维景国际大酒店有限公司",
    "type": "国企/央企",
-   "location": "呼和浩特",
+   "location": "南京-玄武区",
    "positions": [
-    "交易管理岗BFMX1/管理培训生"
+    "宾客关系主任"
    ],
    "publish_date": "2026-09-30",
-   "deadline": "2026-10-31",
-   "link": "https://www.iguopin.com/job/detail?id=220544963341976573",
-   "source": "iguopin",
-   "batch": "国聘",
-   "deadline_note": "",
-   "extra": {
-    "education": "硕士",
-    "major": "电力技术类、能源动力类、自动化类、金融类、应用统计类、数学类、应用经济学类",
-    "industry": "电力、热力生产和供应业",
-    "nature": "国企/央企"
-   }
-  },
-  {
-   "company": "华润电力控股有限公司",
-   "type": "国企/央企",
-   "location": "深圳",
-   "positions": [
-    "财务数智化管理（AI）岗KGZB/管理培训生"
-   ],
-   "publish_date": "2026-09-30",
-   "deadline": "2026-11-30",
-   "link": "https://www.iguopin.com/job/detail?id=220563397475828733",
-   "source": "iguopin",
-   "batch": "国聘",
-   "deadline_note": "",
-   "extra": {
-    "education": "硕士",
-    "major": "计算机科学与技术类",
-    "industry": "电力、热力生产和供应业",
-    "nature": "国企/央企"
-   }
-  },
-  {
-   "company": "华润电力控股有限公司",
-   "type": "国企/央企",
-   "location": "重庆",
-   "positions": [
-    "新能源运维工程师CNCY/管理培训生"
-   ],
-   "publish_date": "2026-09-30",
-   "deadline": "2026-10-31",
-   "link": "https://www.iguopin.com/job/detail?id=220416438945448957",
+   "deadline": "2026-12-31",
+   "link": "https://www.iguopin.com/job/detail?id=220284563635568644",
    "source": "iguopin",
    "batch": "国聘",
    "deadline_note": "",
    "extra": {
     "education": "本科",
-    "major": "电气类、电气工程类、新能源发电工程类、能源动力类、自动化类、机械类、机械工程类",
-    "industry": "电力、热力生产和供应业",
+    "major": "专业不限",
+    "industry": "住宿业",
     "nature": "国企/央企"
    }
   },
   {
-   "company": "华润电力控股有限公司",
+   "company": "南京维景国际大酒店有限公司",
    "type": "国企/央企",
-   "location": "徐州",
+   "location": "南京-玄武区",
    "positions": [
-    "火电运维工程师HDXZ/管理培训生"
+    "礼宾员"
    ],
    "publish_date": "2026-09-30",
-   "deadline": "2026-11-30",
-   "link": "https://www.iguopin.com/job/detail?id=220503684461625348",
+   "deadline": "2026-12-31",
+   "link": "https://www.iguopin.com/job/detail?id=220284564440875012",
    "source": "iguopin",
    "batch": "国聘",
    "deadline_note": "",
    "extra": {
     "education": "本科",
-    "major": "能源动力类、电气类、电气工程类、自动化类",
-    "industry": "电力、热力生产和供应业",
+    "major": "专业不限",
+    "industry": "住宿业",
     "nature": "国企/央企"
    }
   },
   {
    "company": "华润电力控股有限公司",
    "type": "国企/央企",
-   "location": "福州",
+   "location": "山东",
    "positions": [
-    "项目开发管理岗HDFJ/管理培训生"
-   ],
-   "publish_date": "2026-09-30",
-   "deadline": "2026-10-31",
-   "link": "https://www.iguopin.com/job/detail?id=220497430452371460",
-   "source": "iguopin",
-   "batch": "国聘",
-   "deadline_note": "",
-   "extra": {
-    "education": "本科",
-    "major": "电气类、能源动力类、机械类、自动化类、工程管理类、金融学类、审计类、经济学类",
-    "industry": "电力、热力生产和供应业",
-    "nature": "国企/央企"
-   }
-  },
-  {
-   "company": "华润电力控股有限公司",
-   "type": "国企/央企",
-   "location": "哈密",
-   "positions": [
-    "新能源运维工程师XJCN/管理培训生"
-   ],
-   "publish_date": "2026-09-30",
-   "deadline": "2026-10-31",
-   "link": "https://www.iguopin.com/job/detail?id=220500026072237053",
-   "source": "iguopin",
-   "batch": "国聘",
-   "deadline_note": "",
-   "extra": {
-    "education": "本科",
-    "major": "能源动力类",
-    "industry": "电力、热力生产和供应业",
-    "nature": "国企/央企"
-   }
-  },
-  {
-   "company": "华润电力控股有限公司",
-   "type": "国企/央企",
-   "location": "深圳",
-   "positions": [
-    "CMS传动链算法研发工程师JSYJY/管理培训生"
-   ],
-   "publish_date": "2026-09-30",
-   "deadline": "2026-10-31",
-   "link": "https://www.iguopin.com/job/detail?id=220428254702470141",
-   "source": "iguopin",
-   "batch": "国聘",
-   "deadline_note": "",
-   "extra": {
-    "education": "硕士",
-    "major": "计算机类、计算机科学与技术类、计算机类、计算机科学与技术类",
-    "industry": "电力、热力生产和供应业",
-    "nature": "国企/央企"
-   }
-  },
-  {
-   "company": "华润电力控股有限公司",
-   "type": "国企/央企",
-   "location": "深圳",
-   "positions": [
-    "电力交易算法工程师JSYJY/管理培训生"
-   ],
-   "publish_date": "2026-09-30",
-   "deadline": "2026-10-31",
-   "link": "https://www.iguopin.com/job/detail?id=220428587260445680",
-   "source": "iguopin",
-   "batch": "国聘",
-   "deadline_note": "",
-   "extra": {
-    "education": "硕士",
-    "major": "计算机科学与技术类、计算机科学与技术类、计算机类、计算机类",
-    "industry": "电力、热力生产和供应业",
-    "nature": "国企/央企"
-   }
-  },
-  {
-   "company": "华润电力控股有限公司",
-   "type": "国企/央企",
-   "location": "深圳",
-   "positions": [
-    "风光储调控算法工程师JSYJY/管理培训生"
-   ],
-   "publish_date": "2026-09-30",
-   "deadline": "2026-10-31",
-   "link": "https://www.iguopin.com/job/detail?id=220429129432957936",
-   "source": "iguopin",
-   "batch": "国聘",
-   "deadline_note": "",
-   "extra": {
-    "education": "硕士",
-    "major": "计算机科学与技术类、计算机科学与技术类、计算机类、计算机类",
-    "industry": "电力、热力生产和供应业",
-    "nature": "国企/央企"
-   }
-  },
-  {
-   "company": "华润电力控股有限公司",
-   "type": "国企/央企",
-   "location": "郴州",
-   "positions": [
-    "电气工程师HNCZ"
-   ],
-   "publish_date": "2026-09-30",
-   "deadline": "2026-12-29",
-   "link": "https://www.iguopin.com/job/detail?id=220422235473575940",
-   "source": "iguopin",
-   "batch": "国聘",
-   "deadline_note": "",
-   "extra": {
-    "education": "本科",
-    "major": "电气类、电气工程类、自动化类、自动化类",
-    "industry": "电力、热力生产和供应业",
-    "nature": "国企/央企"
-   }
-  },
-  {
-   "company": "华润电力控股有限公司",
-   "type": "国企/央企",
-   "location": "郴州",
-   "positions": [
-    "火电运维工程师HNCZ"
-   ],
-   "publish_date": "2026-09-30",
-   "deadline": "2026-12-29",
-   "link": "https://www.iguopin.com/job/detail?id=220422440239498465",
-   "source": "iguopin",
-   "batch": "国聘",
-   "deadline_note": "",
-   "extra": {
-    "education": "本科",
-    "major": "能源动力类、热能与发电工程类、新能源发电工程类、电力技术类、电气类、电气工程类、自动化类、自动化类",
-    "industry": "电力、热力生产和供应业",
-    "nature": "国企/央企"
-   }
-  },
-  {
-   "company": "华润电力控股有限公司",
-   "type": "国企/央企",
-   "location": "深圳",
-   "positions": [
-    "新型电力系统主动支撑技术研究工程师JSYJY/管理培训生"
-   ],
-   "publish_date": "2026-09-30",
-   "deadline": "2026-10-31",
-   "link": "https://www.iguopin.com/job/detail?id=220423468867388413",
-   "source": "iguopin",
-   "batch": "国聘",
-   "deadline_note": "",
-   "extra": {
-    "education": "博士",
-    "major": "电气类",
-    "industry": "电力、热力生产和供应业",
-    "nature": "国企/央企"
-   }
-  },
-  {
-   "company": "华润电力控股有限公司",
-   "type": "国企/央企",
-   "location": "郑州",
-   "positions": [
-    "智慧风电大模型算法研究工程师JSYJY/管理培训生"
-   ],
-   "publish_date": "2026-09-30",
-   "deadline": "2026-10-31",
-   "link": "https://www.iguopin.com/job/detail?id=220424429312672765",
-   "source": "iguopin",
-   "batch": "国聘",
-   "deadline_note": "",
-   "extra": {
-    "education": "博士",
-    "major": "计算机科学与技术类、计算机类、计算机科学与技术类、计算机类",
-    "industry": "电力、热力生产和供应业",
-    "nature": "国企/央企"
-   }
-  },
-  {
-   "company": "华润电力控股有限公司",
-   "type": "国企/央企",
-   "location": "盘锦-兴隆台区",
-   "positions": [
-    "热力检修工程师DBPJ/管理培训生"
-   ],
-   "publish_date": "2026-09-30",
-   "deadline": "2026-10-30",
-   "link": "https://www.iguopin.com/job/detail?id=220414943491523808",
-   "source": "iguopin",
-   "batch": "国聘",
-   "deadline_note": "",
-   "extra": {
-    "education": "本科",
-    "major": "能源动力类、机械类、自动化类、电气工程类、动力工程及工程热物理类、热能与发电工程类",
-    "industry": "电力、热力生产和供应业",
-    "nature": "国企/央企"
-   }
-  },
-  {
-   "company": "华润电力控股有限公司",
-   "type": "国企/央企",
-   "location": "太原",
-   "positions": [
-    "财务管理岗BFSX"
-   ],
-   "publish_date": "2026-09-30",
-   "deadline": "2026-12-29",
-   "link": "https://www.iguopin.com/job/detail?id=220417367933453537",
-   "source": "iguopin",
-   "batch": "国聘",
-   "deadline_note": "",
-   "extra": {
-    "education": "硕士",
-    "major": "会计类",
-    "industry": "电力、热力生产和供应业",
-    "nature": "国企/央企"
-   }
-  },
-  {
-   "company": "华润电力控股有限公司",
-   "type": "国企/央企",
-   "location": "镇江",
-   "positions": [
-    "火电运维工程师3ZJGS"
-   ],
-   "publish_date": "2026-09-30",
-   "deadline": "2026-12-29",
-   "link": "https://www.iguopin.com/job/detail?id=220410742157869060",
-   "source": "iguopin",
-   "batch": "国聘",
-   "deadline_note": "",
-   "extra": {
-    "education": "硕士",
-    "major": "热能与发电工程类",
-    "industry": "电力、热力生产和供应业",
-    "nature": "国企/央企"
-   }
-  },
-  {
-   "company": "华润电力控股有限公司",
-   "type": "国企/央企",
-   "location": "盘锦-兴隆台区",
-   "positions": [
-    "电量营销管理岗DBPJ/管理培训生"
-   ],
-   "publish_date": "2026-09-30",
-   "deadline": "2026-10-30",
-   "link": "https://www.iguopin.com/job/detail?id=220412562502583293",
-   "source": "iguopin",
-   "batch": "国聘",
-   "deadline_note": "",
-   "extra": {
-    "education": "硕士",
-    "major": "能源动力类、电气类、自动化类、数学类、统计学类",
-    "industry": "电力、热力生产和供应业",
-    "nature": "国企/央企"
-   }
-  },
-  {
-   "company": "华润电力控股有限公司",
-   "type": "国企/央企",
-   "location": "郑州",
-   "positions": [
-    "材料科技创新研发工程师JSYJY/管理培训生"
-   ],
-   "publish_date": "2026-09-30",
-   "deadline": "2026-10-31",
-   "link": "https://www.iguopin.com/job/detail?id=220483623390806020",
-   "source": "iguopin",
-   "batch": "国聘",
-   "deadline_note": "",
-   "extra": {
-    "education": "硕士",
-    "major": "材料类、材料科学与工程类",
-    "industry": "电力、热力生产和供应业",
-    "nature": "国企/央企"
-   }
-  },
-  {
-   "company": "华润电力控股有限公司",
-   "type": "国企/央企",
-   "location": "山西",
-   "positions": [
-    "新能源运维工程师BFSX"
-   ],
-   "publish_date": "2026-09-30",
-   "deadline": "2026-12-29",
-   "link": "https://www.iguopin.com/job/detail?id=220418966483371233",
-   "source": "iguopin",
-   "batch": "国聘",
-   "deadline_note": "",
-   "extra": {
-    "education": "本科",
-    "major": "电气工程类",
-    "industry": "电力、热力生产和供应业",
-    "nature": "国企/央企"
-   }
-  },
-  {
-   "company": "华润电力控股有限公司",
-   "type": "国企/央企",
-   "location": "唐山-路北区",
-   "positions": [
-    "人力资源管理岗HBTS/管理培训生"
+    "新能源运维工程师HBSD/管理培训生"
    ],
    "publish_date": "2026-09-30",
    "deadline": "2026-12-01",
-   "link": "https://www.iguopin.com/job/detail?id=220486966251094020",
-   "source": "iguopin",
-   "batch": "国聘",
-   "deadline_note": "",
-   "extra": {
-    "education": "硕士",
-    "major": "法学类、法律类、工商管理类、经济学类、热能与发电工程类、电力技术类、电气类、能源动力类",
-    "industry": "电力、热力生产和供应业",
-    "nature": "国企/央企"
-   }
-  },
-  {
-   "company": "华润电力控股有限公司",
-   "type": "国企/央企",
-   "location": "郑州",
-   "positions": [
-    "网源协调技术研究工程师JSYJY/管理培训生"
-   ],
-   "publish_date": "2026-09-30",
-   "deadline": "2026-10-31",
-   "link": "https://www.iguopin.com/job/detail?id=220487051076699361",
-   "source": "iguopin",
-   "batch": "国聘",
-   "deadline_note": "",
-   "extra": {
-    "education": "硕士",
-    "major": "热能与发电工程类",
-    "industry": "电力、热力生产和供应业",
-    "nature": "国企/央企"
-   }
-  },
-  {
-   "company": "华润电力控股有限公司",
-   "type": "国企/央企",
-   "location": "唐山-曹妃甸区",
-   "positions": [
-    "新能源运维工程师HBTS/管理培训生"
-   ],
-   "publish_date": "2026-09-30",
-   "deadline": "2026-12-01",
-   "link": "https://www.iguopin.com/job/detail?id=220486619751252989",
+   "link": "https://www.iguopin.com/job/detail?id=220381783995188221",
    "source": "iguopin",
    "batch": "国聘",
    "deadline_note": "",
    "extra": {
     "education": "本科",
-    "major": "能源动力类、电气类、动力工程及工程热物理类、电气工程类、电子科学与技术类、信息与通信工程类、自动化类、热能与发电工程类、新能源发电工程类、电力技术类",
+    "major": "电力技术类、新能源发电工程类、电子信息类、计算机类",
     "industry": "电力、热力生产和供应业",
     "nature": "国企/央企"
    }
@@ -2371,19 +2665,19 @@
   {
    "company": "华润电力控股有限公司",
    "type": "国企/央企",
-   "location": "福建",
+   "location": "乌鲁木齐",
    "positions": [
-    "新能源运维工程师HDFJ/管理培训生"
+    "市场营销管理岗XJSD/管理培训生"
    ],
    "publish_date": "2026-09-30",
    "deadline": "2026-10-31",
-   "link": "https://www.iguopin.com/job/detail?id=220516239322121200",
+   "link": "https://www.iguopin.com/job/detail?id=220533957236622561",
    "source": "iguopin",
    "batch": "国聘",
    "deadline_note": "",
    "extra": {
     "education": "本科",
-    "major": "电气类、能源动力类、机械类、自动化类",
+    "major": "管理科学与工程类",
     "industry": "电力、热力生产和供应业",
     "nature": "国企/央企"
    }
@@ -2391,19 +2685,19 @@
   {
    "company": "华润电力控股有限公司",
    "type": "国企/央企",
-   "location": "温州-龙港市",
+   "location": "乌鲁木齐",
    "positions": [
-    "汽机工程师DBGC/管理培训生"
+    "项目开发管理岗XJBB/管理培训生"
    ],
    "publish_date": "2026-09-30",
-   "deadline": "2026-11-30",
-   "link": "https://www.iguopin.com/job/detail?id=220516322251900129",
+   "deadline": "2026-10-31",
+   "link": "https://www.iguopin.com/job/detail?id=220534427099333857",
    "source": "iguopin",
    "batch": "国聘",
    "deadline_note": "",
    "extra": {
     "education": "本科",
-    "major": "详见职位描述",
+    "major": "管理科学与工程类",
     "industry": "电力、热力生产和供应业",
     "nature": "国企/央企"
    }
@@ -2411,159 +2705,19 @@
   {
    "company": "华润电力控股有限公司",
    "type": "国企/央企",
-   "location": "郑州",
+   "location": "阜新-阜新蒙古族自治县",
    "positions": [
-    "新能源运维工程师ZXHN/管理培训生"
-   ],
-   "publish_date": "2026-09-30",
-   "deadline": "2026-10-31",
-   "link": "https://www.iguopin.com/job/detail?id=220498565749801981",
-   "source": "iguopin",
-   "batch": "国聘",
-   "deadline_note": "",
-   "extra": {
-    "education": "本科",
-    "major": "能源动力类、电气类、电气工程类、机械类、网络空间安全类、信息与通信工程类",
-    "industry": "电力、热力生产和供应业",
-    "nature": "国企/央企"
-   }
-  },
-  {
-   "company": "华润电力控股有限公司",
-   "type": "国企/央企",
-   "location": "哈密",
-   "positions": [
-    "火电运行工程师XJCN/管理培训生"
-   ],
-   "publish_date": "2026-09-30",
-   "deadline": "2026-10-31",
-   "link": "https://www.iguopin.com/job/detail?id=220498809505973245",
-   "source": "iguopin",
-   "batch": "国聘",
-   "deadline_note": "",
-   "extra": {
-    "education": "本科",
-    "major": "能源动力类",
-    "industry": "电力、热力生产和供应业",
-    "nature": "国企/央企"
-   }
-  },
-  {
-   "company": "华润电力控股有限公司",
-   "type": "国企/央企",
-   "location": "郑州",
-   "positions": [
-    "财务管理岗ZXBB/管理培训生"
-   ],
-   "publish_date": "2026-09-30",
-   "deadline": "2026-10-31",
-   "link": "https://www.iguopin.com/job/detail?id=220499280073327841",
-   "source": "iguopin",
-   "batch": "国聘",
-   "deadline_note": "",
-   "extra": {
-    "education": "硕士",
-    "major": "财务会计类",
-    "industry": "电力、热力生产和供应业",
-    "nature": "国企/央企"
-   }
-  },
-  {
-   "company": "华润电力控股有限公司",
-   "type": "国企/央企",
-   "location": "苏州-常熟市",
-   "positions": [
-    "火电运维工程师HDSN/管理培训生"
-   ],
-   "publish_date": "2026-09-30",
-   "deadline": "2026-10-31",
-   "link": "https://www.iguopin.com/job/detail?id=220497355860869124",
-   "source": "iguopin",
-   "batch": "国聘",
-   "deadline_note": "",
-   "extra": {
-    "education": "本科",
-    "major": "电气类",
-    "industry": "电力、热力生产和供应业",
-    "nature": "国企/央企"
-   }
-  },
-  {
-   "company": "华润电力控股有限公司",
-   "type": "国企/央企",
-   "location": "锡林郭勒-西乌珠穆沁旗",
-   "positions": [
-    "通防监测监控管理工程师MYGS/管理培训生"
-   ],
-   "publish_date": "2026-09-30",
-   "deadline": "2026-10-31",
-   "link": "https://www.iguopin.com/job/detail?id=220497418926425085",
-   "source": "iguopin",
-   "batch": "国聘",
-   "deadline_note": "",
-   "extra": {
-    "education": "本科",
-    "major": "电子信息类、煤炭类、电气类、电气工程类",
-    "industry": "电力、热力生产和供应业",
-    "nature": "国企/央企"
-   }
-  },
-  {
-   "company": "华润电力控股有限公司",
-   "type": "国企/央企",
-   "location": "苏州-常熟市",
-   "positions": [
-    "热控工程师HDSN/管理培训生"
-   ],
-   "publish_date": "2026-09-30",
-   "deadline": "2026-10-31",
-   "link": "https://www.iguopin.com/job/detail?id=220496313408552964",
-   "source": "iguopin",
-   "batch": "国聘",
-   "deadline_note": "",
-   "extra": {
-    "education": "硕士",
-    "major": "详见职位描述",
-    "industry": "电力、热力生产和供应业",
-    "nature": "国企/央企"
-   }
-  },
-  {
-   "company": "华润电力控股有限公司",
-   "type": "国企/央企",
-   "location": "郑州-登封市",
-   "positions": [
-    "电量交易管理岗ZXDF/管理培训生"
+    "新能源运维工程师DBXNY/管理培训生"
    ],
    "publish_date": "2026-09-30",
    "deadline": "2026-12-30",
-   "link": "https://www.iguopin.com/job/detail?id=220503534523646973",
-   "source": "iguopin",
-   "batch": "国聘",
-   "deadline_note": "",
-   "extra": {
-    "education": "硕士",
-    "major": "经济学类、金融类、金融学类、应用经济学类、理论经济学类、应用统计类、审计类、统计学类、计算机类、计算机类",
-    "industry": "电力、热力生产和供应业",
-    "nature": "国企/央企"
-   }
-  },
-  {
-   "company": "华润电力控股有限公司",
-   "type": "国企/央企",
-   "location": "锡林郭勒-西乌珠穆沁旗",
-   "positions": [
-    "机电运输安全工程师MYGS/管理培训生"
-   ],
-   "publish_date": "2026-09-30",
-   "deadline": "2026-10-31",
-   "link": "https://www.iguopin.com/job/detail?id=220495977813901316",
+   "link": "https://www.iguopin.com/job/detail?id=220533253533074429",
    "source": "iguopin",
    "batch": "国聘",
    "deadline_note": "",
    "extra": {
     "education": "本科",
-    "major": "机械类、机械工程类、电气类、电气工程类、矿业类、矿业工程类、安全科学与工程类",
+    "major": "电气类",
     "industry": "电力、热力生产和供应业",
     "nature": "国企/央企"
    }
@@ -2571,119 +2725,19 @@
   {
    "company": "华润电力控股有限公司",
    "type": "国企/央企",
-   "location": "银川",
+   "location": "哈密",
    "positions": [
-    "新能源运维工程师HDNX/管理培训生"
+    "新能源运维工程师XJXJ/管理培训生"
    ],
    "publish_date": "2026-09-30",
    "deadline": "2026-10-31",
-   "link": "https://www.iguopin.com/job/detail?id=220539718465487869",
+   "link": "https://www.iguopin.com/job/detail?id=220530237828498416",
    "source": "iguopin",
    "batch": "国聘",
    "deadline_note": "",
    "extra": {
     "education": "本科",
-    "major": "电气工程类、电气类、自动化类、新能源发电工程类",
-    "industry": "电力、热力生产和供应业",
-    "nature": "国企/央企"
-   }
-  },
-  {
-   "company": "华润电力控股有限公司",
-   "type": "国企/央企",
-   "location": "太原",
-   "positions": [
-    "交易管理岗BFSX"
-   ],
-   "publish_date": "2026-09-30",
-   "deadline": "2026-12-29",
-   "link": "https://www.iguopin.com/job/detail?id=220389001419292676",
-   "source": "iguopin",
-   "batch": "国聘",
-   "deadline_note": "",
-   "extra": {
-    "education": "硕士",
-    "major": "数学类、统计类、电气工程类",
-    "industry": "电力、热力生产和供应业",
-    "nature": "国企/央企"
-   }
-  },
-  {
-   "company": "华润电力控股有限公司",
-   "type": "国企/央企",
-   "location": "石家庄-桥西区",
-   "positions": [
-    "综合能源开发管理岗HBJJJ/管理培训生"
-   ],
-   "publish_date": "2026-09-30",
-   "deadline": "2026-11-30",
-   "link": "https://www.iguopin.com/job/detail?id=220384302053983456",
-   "source": "iguopin",
-   "batch": "国聘",
-   "deadline_note": "",
-   "extra": {
-    "education": "硕士",
-    "major": "电气工程类、电气类、能源动力类、新能源发电工程类",
-    "industry": "电力、热力生产和供应业",
-    "nature": "国企/央企"
-   }
-  },
-  {
-   "company": "华润电力控股有限公司",
-   "type": "国企/央企",
-   "location": "西安",
-   "positions": [
-    "技术创新管理工程师ZXSX/管理培训生"
-   ],
-   "publish_date": "2026-09-30",
-   "deadline": "2026-10-31",
-   "link": "https://www.iguopin.com/job/detail?id=220513863014023172",
-   "source": "iguopin",
-   "batch": "国聘",
-   "deadline_note": "",
-   "extra": {
-    "education": "硕士",
-    "major": "电力技术类、热能与发电工程类、新能源发电工程类、黑色金属材料类、有色金属材料类、非金属材料类、建筑材料类",
-    "industry": "电力、热力生产和供应业",
-    "nature": "国企/央企"
-   }
-  },
-  {
-   "company": "华润电力控股有限公司",
-   "type": "国企/央企",
-   "location": "西安",
-   "positions": [
-    "网络安全工程师ZXSX/管理培训生"
-   ],
-   "publish_date": "2026-09-30",
-   "deadline": "2026-10-31",
-   "link": "https://www.iguopin.com/job/detail?id=220514010217316356",
-   "source": "iguopin",
-   "batch": "国聘",
-   "deadline_note": "",
-   "extra": {
-    "education": "硕士",
-    "major": "电力技术类",
-    "industry": "电力、热力生产和供应业",
-    "nature": "国企/央企"
-   }
-  },
-  {
-   "company": "华润电力控股有限公司",
-   "type": "国企/央企",
-   "location": "福州",
-   "positions": [
-    "人力资源管理岗HDFJ/管理培训生"
-   ],
-   "publish_date": "2026-09-30",
-   "deadline": "2026-10-31",
-   "link": "https://www.iguopin.com/job/detail?id=220512248508974305",
-   "source": "iguopin",
-   "batch": "国聘",
-   "deadline_note": "",
-   "extra": {
-    "education": "硕士",
-    "major": "工商管理类、社会学类",
+    "major": "电气类、机械类、能源动力类、自动化类",
     "industry": "电力、热力生产和供应业",
     "nature": "国企/央企"
    }
@@ -2851,86 +2905,6 @@
   {
    "company": "华润电力控股有限公司",
    "type": "国企/央企",
-   "location": "乌鲁木齐",
-   "positions": [
-    "项目开发管理岗XJBB/管理培训生"
-   ],
-   "publish_date": "2026-09-30",
-   "deadline": "2026-10-31",
-   "link": "https://www.iguopin.com/job/detail?id=220534427099333857",
-   "source": "iguopin",
-   "batch": "国聘",
-   "deadline_note": "",
-   "extra": {
-    "education": "本科",
-    "major": "管理科学与工程类",
-    "industry": "电力、热力生产和供应业",
-    "nature": "国企/央企"
-   }
-  },
-  {
-   "company": "华润电力控股有限公司",
-   "type": "国企/央企",
-   "location": "阜新-阜新蒙古族自治县",
-   "positions": [
-    "新能源运维工程师DBXNY/管理培训生"
-   ],
-   "publish_date": "2026-09-30",
-   "deadline": "2026-12-30",
-   "link": "https://www.iguopin.com/job/detail?id=220533253533074429",
-   "source": "iguopin",
-   "batch": "国聘",
-   "deadline_note": "",
-   "extra": {
-    "education": "本科",
-    "major": "电气类",
-    "industry": "电力、热力生产和供应业",
-    "nature": "国企/央企"
-   }
-  },
-  {
-   "company": "华润电力控股有限公司",
-   "type": "国企/央企",
-   "location": "乌鲁木齐",
-   "positions": [
-    "市场营销管理岗XJSD/管理培训生"
-   ],
-   "publish_date": "2026-09-30",
-   "deadline": "2026-10-31",
-   "link": "https://www.iguopin.com/job/detail?id=220533957236622561",
-   "source": "iguopin",
-   "batch": "国聘",
-   "deadline_note": "",
-   "extra": {
-    "education": "本科",
-    "major": "管理科学与工程类",
-    "industry": "电力、热力生产和供应业",
-    "nature": "国企/央企"
-   }
-  },
-  {
-   "company": "华润电力控股有限公司",
-   "type": "国企/央企",
-   "location": "哈密",
-   "positions": [
-    "新能源运维工程师XJXJ/管理培训生"
-   ],
-   "publish_date": "2026-09-30",
-   "deadline": "2026-10-31",
-   "link": "https://www.iguopin.com/job/detail?id=220530237828498416",
-   "source": "iguopin",
-   "batch": "国聘",
-   "deadline_note": "",
-   "extra": {
-    "education": "本科",
-    "major": "电气类、机械类、能源动力类、自动化类",
-    "industry": "电力、热力生产和供应业",
-    "nature": "国企/央企"
-   }
-  },
-  {
-   "company": "华润电力控股有限公司",
-   "type": "国企/央企",
    "location": "浙江",
    "positions": [
     "电气工程师HDZJ/管理培训生"
@@ -2991,19 +2965,19 @@
   {
    "company": "华润电力控股有限公司",
    "type": "国企/央企",
-   "location": "驻马店-驿城区",
+   "location": "银川",
    "positions": [
-    "热控工程师ZXZMD/管理培训生"
+    "交易管理岗HNYN/管理培训生"
    ],
    "publish_date": "2026-09-30",
    "deadline": "2026-10-31",
-   "link": "https://www.iguopin.com/job/detail?id=220525888821788676",
+   "link": "https://www.iguopin.com/job/detail?id=220540389755454461",
    "source": "iguopin",
    "batch": "国聘",
    "deadline_note": "",
    "extra": {
     "education": "硕士",
-    "major": "自动化类、控制科学与工程类、电子信息类、电气类",
+    "major": "电气类、能源动力类、经济学类、金融类、应用统计类、统计学类",
     "industry": "电力、热力生产和供应业",
     "nature": "国企/央企"
    }
@@ -3011,139 +2985,19 @@
   {
    "company": "华润电力控股有限公司",
    "type": "国企/央企",
-   "location": "沈阳-大东区",
+   "location": "浙江",
    "positions": [
-    "火电运维工程师DBSY/管理培训生"
+    "海务工程师HDZJ/管理培训生"
    ],
    "publish_date": "2026-09-30",
    "deadline": "2026-10-31",
-   "link": "https://www.iguopin.com/job/detail?id=220525254643025121",
+   "link": "https://www.iguopin.com/job/detail?id=220535944732738544",
    "source": "iguopin",
    "batch": "国聘",
    "deadline_note": "",
    "extra": {
     "education": "本科",
-    "major": "电力技术类",
-    "industry": "电力、热力生产和供应业",
-    "nature": "国企/央企"
-   }
-  },
-  {
-   "company": "华润电力控股有限公司",
-   "type": "国企/央企",
-   "location": "石家庄",
-   "positions": [
-    "法务管理岗HBJJJ/管理培训生"
-   ],
-   "publish_date": "2026-09-30",
-   "deadline": "2026-11-30",
-   "link": "https://www.iguopin.com/job/detail?id=220526634669704417",
-   "source": "iguopin",
-   "batch": "国聘",
-   "deadline_note": "",
-   "extra": {
-    "education": "硕士",
-    "major": "法学类、法律类",
-    "industry": "电力、热力生产和供应业",
-    "nature": "国企/央企"
-   }
-  },
-  {
-   "company": "华润电力控股有限公司",
-   "type": "国企/央企",
-   "location": "安徽",
-   "positions": [
-    "新能源运维工程师HDAH/管理培训生"
-   ],
-   "publish_date": "2026-09-30",
-   "deadline": "2026-10-31",
-   "link": "https://www.iguopin.com/job/detail?id=220524423399081185",
-   "source": "iguopin",
-   "batch": "国聘",
-   "deadline_note": "",
-   "extra": {
-    "education": "本科",
-    "major": "新能源发电工程类、电气类、电气工程类、机械类、自动化类、电子信息类",
-    "industry": "电力、热力生产和供应业",
-    "nature": "国企/央企"
-   }
-  },
-  {
-   "company": "华润电力控股有限公司",
-   "type": "国企/央企",
-   "location": "锦州",
-   "positions": [
-    "项目开发管理岗DBJZ/管理培训生"
-   ],
-   "publish_date": "2026-09-30",
-   "deadline": "2026-10-31",
-   "link": "https://www.iguopin.com/job/detail?id=220489471424988385",
-   "source": "iguopin",
-   "batch": "国聘",
-   "deadline_note": "",
-   "extra": {
-    "education": "本科",
-    "major": "自动化类、电子信息类、电子信息类、计算机类、电力技术类",
-    "industry": "电力、热力生产和供应业",
-    "nature": "国企/央企"
-   }
-  },
-  {
-   "company": "华润电力控股有限公司",
-   "type": "国企/央企",
-   "location": "贵阳",
-   "positions": [
-    "人力资源管理岗HNGZ/管理培训生"
-   ],
-   "publish_date": "2026-09-30",
-   "deadline": "2026-10-31",
-   "link": "https://www.iguopin.com/job/detail?id=220489542946258948",
-   "source": "iguopin",
-   "batch": "国聘",
-   "deadline_note": "",
-   "extra": {
-    "education": "硕士",
-    "major": "工商管理类、公共管理类",
-    "industry": "电力、热力生产和供应业",
-    "nature": "国企/央企"
-   }
-  },
-  {
-   "company": "华润电力控股有限公司",
-   "type": "国企/央企",
-   "location": "咸宁-赤壁市",
-   "positions": [
-    "电气管理工程师（火电）HZXN/管理培训生"
-   ],
-   "publish_date": "2026-09-30",
-   "deadline": "2026-11-30",
-   "link": "https://www.iguopin.com/job/detail?id=220491803827111137",
-   "source": "iguopin",
-   "batch": "国聘",
-   "deadline_note": "",
-   "extra": {
-    "education": "本科",
-    "major": "电气类、电气工程类",
-    "industry": "电力、热力生产和供应业",
-    "nature": "国企/央企"
-   }
-  },
-  {
-   "company": "华润电力控股有限公司",
-   "type": "国企/央企",
-   "location": "咸宁-赤壁市",
-   "positions": [
-    "锅炉管理工程师HZXN/管理培训生"
-   ],
-   "publish_date": "2026-09-30",
-   "deadline": "2026-11-30",
-   "link": "https://www.iguopin.com/job/detail?id=220491961549718512",
-   "source": "iguopin",
-   "batch": "国聘",
-   "deadline_note": "",
-   "extra": {
-    "education": "本科",
-    "major": "热能与发电工程类",
+    "major": "海洋工程类",
     "industry": "电力、热力生产和供应业",
     "nature": "国企/央企"
    }
@@ -3166,19 +3020,544 @@
     "major": "审计类",
     "industry": "电力、热力生产和供应业",
     "nature": "国企/央企"
+   }
+  },
+  {
+   "company": "华润电力控股有限公司",
+   "type": "国企/央企",
+   "location": "深圳",
+   "positions": [
+    "电碳交易研究工程师JSYJY/管理培训生"
+   ],
+   "publish_date": "2026-09-30",
+   "deadline": "2026-10-31",
+   "link": "https://www.iguopin.com/job/detail?id=220424051288442081",
+   "source": "iguopin",
+   "batch": "国聘",
+   "deadline_note": "",
+   "extra": {
+    "education": "博士",
+    "major": "电力技术类",
+    "industry": "电力、热力生产和供应业",
+    "nature": "国企/央企"
+   }
+  },
+  {
+   "company": "华润电力控股有限公司",
+   "type": "国企/央企",
+   "location": "郑州",
+   "positions": [
+    "新能源核心研发工程师JSYJY(风光储)/管理培训生"
+   ],
+   "publish_date": "2026-09-30",
+   "deadline": "2026-10-31",
+   "link": "https://www.iguopin.com/job/detail?id=220486587270563041",
+   "source": "iguopin",
+   "batch": "国聘",
+   "deadline_note": "",
+   "extra": {
+    "education": "硕士",
+    "major": "热能与发电工程类",
+    "industry": "电力、热力生产和供应业",
+    "nature": "国企/央企"
+   }
+  },
+  {
+   "company": "华润电力控股有限公司",
+   "type": "国企/央企",
+   "location": "浙江",
+   "positions": [
+    "财务管理岗HDZJ/管理培训生"
+   ],
+   "publish_date": "2026-09-30",
+   "deadline": "2026-10-31",
+   "link": "https://www.iguopin.com/job/detail?id=220542212415423485",
+   "source": "iguopin",
+   "batch": "国聘",
+   "deadline_note": "",
+   "extra": {
+    "education": "硕士",
+    "major": "财务会计类",
+    "industry": "电力、热力生产和供应业",
+    "nature": "国企/央企"
+   }
+  },
+  {
+   "company": "华润电力控股有限公司",
+   "type": "国企/央企",
+   "location": "深圳-南山区",
+   "positions": [
+    "投资分析、政策研究管理培训生KGZL"
+   ],
+   "publish_date": "2026-09-30",
+   "deadline": "2026-11-01",
+   "link": "https://www.iguopin.com/job/detail?id=220564848235249668",
+   "source": "iguopin",
+   "batch": "国聘",
+   "deadline_note": "",
+   "extra": {
+    "education": "硕士",
+    "major": "能源动力类",
+    "industry": "电力、热力生产和供应业",
+    "nature": "国企/央企"
+   }
+  },
+  {
+   "company": "华润电力控股有限公司",
+   "type": "国企/央企",
+   "location": "深圳-南山区",
+   "positions": [
+    "燃料采购管理培训生（数智化方向）KGZBRL"
+   ],
+   "publish_date": "2026-09-30",
+   "deadline": "2026-11-30",
+   "link": "https://www.iguopin.com/job/detail?id=220563573670151393",
+   "source": "iguopin",
+   "batch": "国聘",
+   "deadline_note": "",
+   "extra": {
+    "education": "硕士",
+    "major": "计算机科学与技术类",
+    "industry": "电力、热力生产和供应业",
+    "nature": "国企/央企"
+   }
+  },
+  {
+   "company": "华润电力控股有限公司",
+   "type": "国企/央企",
+   "location": "深圳",
+   "positions": [
+    "软件开发工程(工业物联)JSYJY/管理培训生"
+   ],
+   "publish_date": "2026-09-30",
+   "deadline": "2026-10-31",
+   "link": "https://www.iguopin.com/job/detail?id=220494951887143920",
+   "source": "iguopin",
+   "batch": "国聘",
+   "deadline_note": "",
+   "extra": {
+    "education": "硕士",
+    "major": "计算机科学与技术类、计算机类",
+    "industry": "电力、热力生产和供应业",
+    "nature": "国企/央企"
+   }
+  },
+  {
+   "company": "华润电力控股有限公司",
+   "type": "国企/央企",
+   "location": "巴彦淖尔-磴口县",
+   "positions": [
+    "电气管理工程师BFMX/管理培训生"
+   ],
+   "publish_date": "2026-09-30",
+   "deadline": "2026-10-31",
+   "link": "https://www.iguopin.com/job/detail?id=220545558446605309",
+   "source": "iguopin",
+   "batch": "国聘",
+   "deadline_note": "",
+   "extra": {
+    "education": "本科",
+    "major": "电气类、自动化类、电力技术类",
+    "industry": "电力、热力生产和供应业",
+    "nature": "国企/央企"
+   }
+  },
+  {
+   "company": "华润电力控股有限公司",
+   "type": "国企/央企",
+   "location": "巴彦淖尔-磴口县",
+   "positions": [
+    "汽机管理工程师BFMX/管理培训生"
+   ],
+   "publish_date": "2026-09-30",
+   "deadline": "2026-10-31",
+   "link": "https://www.iguopin.com/job/detail?id=220545379920250081",
+   "source": "iguopin",
+   "batch": "国聘",
+   "deadline_note": "",
+   "extra": {
+    "education": "本科",
+    "major": "电力技术类、能源动力类、机械类、电气类",
+    "industry": "电力、热力生产和供应业",
+    "nature": "国企/央企"
+   }
+  },
+  {
+   "company": "华润电力控股有限公司",
+   "type": "国企/央企",
+   "location": "浙江",
+   "positions": [
+    "EHS工程师HDZJ/管理培训生"
+   ],
+   "publish_date": "2026-09-30",
+   "deadline": "2026-10-31",
+   "link": "https://www.iguopin.com/job/detail?id=220536568945837053",
+   "source": "iguopin",
+   "batch": "国聘",
+   "deadline_note": "",
+   "extra": {
+    "education": "本科",
+    "major": "安全类",
+    "industry": "电力、热力生产和供应业",
+    "nature": "国企/央企"
+   }
+  },
+  {
+   "company": "华润电力控股有限公司",
+   "type": "国企/央企",
+   "location": "呼和浩特",
+   "positions": [
+    "投资分析工程师BFMX/管理培训生"
+   ],
+   "publish_date": "2026-09-30",
+   "deadline": "2026-10-31",
+   "link": "https://www.iguopin.com/job/detail?id=220545891642114052",
+   "source": "iguopin",
+   "batch": "国聘",
+   "deadline_note": "",
+   "extra": {
+    "education": "硕士",
+    "major": "财务会计类、应用经济学类、数学类、应用统计类、电力技术类、电气类",
+    "industry": "电力、热力生产和供应业",
+    "nature": "国企/央企"
+   }
+  },
+  {
+   "company": "华润电力控股有限公司",
+   "type": "国企/央企",
+   "location": "巴彦淖尔-磴口县",
+   "positions": [
+    "火电运维工程师BFMX/管理培训生"
+   ],
+   "publish_date": "2026-09-30",
+   "deadline": "2026-10-31",
+   "link": "https://www.iguopin.com/job/detail?id=220545688772019184",
+   "source": "iguopin",
+   "batch": "国聘",
+   "deadline_note": "",
+   "extra": {
+    "education": "本科",
+    "major": "电气类、能源动力类、电力技术类",
+    "industry": "电力、热力生产和供应业",
+    "nature": "国企/央企"
+   }
+  },
+  {
+   "company": "华润电力控股有限公司",
+   "type": "国企/央企",
+   "location": "娄底",
+   "positions": [
+    "火电运维工程师HZLY/管理培训生"
+   ],
+   "publish_date": "2026-09-30",
+   "deadline": "2026-10-31",
+   "link": "https://www.iguopin.com/job/detail?id=220495528436170756",
+   "source": "iguopin",
+   "batch": "国聘",
+   "deadline_note": "",
+   "extra": {
+    "education": "本科",
+    "major": "电气类、电气工程类、动力工程及工程热物理类、热能与发电工程类、新能源发电工程类",
+    "industry": "电力、热力生产和供应业",
+    "nature": "国企/央企"
+   }
+  },
+  {
+   "company": "华润电力控股有限公司",
+   "type": "国企/央企",
+   "location": "苏州-常熟市",
+   "positions": [
+    "汽机工程师HDSN/管理培训生"
+   ],
+   "publish_date": "2026-09-30",
+   "deadline": "2026-10-31",
+   "link": "https://www.iguopin.com/job/detail?id=220494960963618017",
+   "source": "iguopin",
+   "batch": "国聘",
+   "deadline_note": "",
+   "extra": {
+    "education": "硕士",
+    "major": "热能与发电工程类、电力技术类、自动化类、机电设备类",
+    "industry": "电力、热力生产和供应业",
+    "nature": "国企/央企"
+   }
+  },
+  {
+   "company": "华润电力控股有限公司",
+   "type": "国企/央企",
+   "location": "深圳",
+   "positions": [
+    "新能源技术监督工程(风电控制方向)JSYJY/管理培训生"
+   ],
+   "publish_date": "2026-09-30",
+   "deadline": "2026-10-31",
+   "link": "https://www.iguopin.com/job/detail?id=220427816632583152",
+   "source": "iguopin",
+   "batch": "国聘",
+   "deadline_note": "",
+   "extra": {
+    "education": "硕士",
+    "major": "新能源发电工程类",
+    "industry": "电力、热力生产和供应业",
+    "nature": "国企/央企"
+   }
+  },
+  {
+   "company": "华润电力控股有限公司",
+   "type": "国企/央企",
+   "location": "西宁-城西区",
+   "positions": [
+    "人力资源管理岗ZXQH/管理培训生"
+   ],
+   "publish_date": "2026-09-30",
+   "deadline": "2026-12-30",
+   "link": "https://www.iguopin.com/job/detail?id=220501738489119969",
+   "source": "iguopin",
+   "batch": "国聘",
+   "deadline_note": "",
+   "extra": {
+    "education": "硕士",
+    "major": "经济学类、工商管理类、公共管理类、语言类、文秘类、能源动力类、电气工程类",
+    "industry": "电力、热力生产和供应业",
+    "nature": "国企/央企"
+   }
+  },
+  {
+   "company": "华润电力控股有限公司",
+   "type": "国企/央企",
+   "location": "西宁",
+   "positions": [
+    "交易管理岗ZXQH/管理培训生"
+   ],
+   "publish_date": "2026-09-30",
+   "deadline": "2026-12-30",
+   "link": "https://www.iguopin.com/job/detail?id=220503068217705456",
+   "source": "iguopin",
+   "batch": "国聘",
+   "deadline_note": "",
+   "extra": {
+    "education": "硕士",
+    "major": "金融类、电力技术类、数学类、经济学类",
+    "industry": "电力、热力生产和供应业",
+    "nature": "国企/央企"
+   }
+  },
+  {
+   "company": "华润电力控股有限公司",
+   "type": "国企/央企",
+   "location": "哈密",
+   "positions": [
+    "电量营销管理岗XJCN/管理培训生"
+   ],
+   "publish_date": "2026-09-30",
+   "deadline": "2026-10-31",
+   "link": "https://www.iguopin.com/job/detail?id=220497003874878448",
+   "source": "iguopin",
+   "batch": "国聘",
+   "deadline_note": "",
+   "extra": {
+    "education": "硕士",
+    "major": "应用统计类",
+    "industry": "电力、热力生产和供应业",
+    "nature": "国企/央企"
+   }
+  },
+  {
+   "company": "华润电力控股有限公司",
+   "type": "国企/央企",
+   "location": "西安",
+   "positions": [
+    "新能源运维工程师ZXSX/管理培训生"
+   ],
+   "publish_date": "2026-09-30",
+   "deadline": "2026-10-31",
+   "link": "https://www.iguopin.com/job/detail?id=220500638927159300",
+   "source": "iguopin",
+   "batch": "国聘",
+   "deadline_note": "",
+   "extra": {
+    "education": "本科",
+    "major": "电力技术类",
+    "industry": "电力、热力生产和供应业",
+    "nature": "国企/央企"
+   }
+  },
+  {
+   "company": "华润电力控股有限公司",
+   "type": "国企/央企",
+   "location": "郑州",
+   "positions": [
+    "财务管理岗ZXHN/管理培训生"
+   ],
+   "publish_date": "2026-09-30",
+   "deadline": "2026-11-30",
+   "link": "https://www.iguopin.com/job/detail?id=220497514271343841",
+   "source": "iguopin",
+   "batch": "国聘",
+   "deadline_note": "",
+   "extra": {
+    "education": "硕士",
+    "major": "会计类、财务会计类、金融学类",
+    "industry": "电力、热力生产和供应业",
+    "nature": "国企/央企"
+   }
+  },
+  {
+   "company": "华润电力控股有限公司",
+   "type": "国企/央企",
+   "location": "天津",
+   "positions": [
+    "量价交易管理岗HBBJSD/管理培训生"
+   ],
+   "publish_date": "2026-09-30",
+   "deadline": "2026-10-31",
+   "link": "https://www.iguopin.com/job/detail?id=220515329711800324",
+   "source": "iguopin",
+   "batch": "国聘",
+   "deadline_note": "",
+   "extra": {
+    "education": "硕士",
+    "major": "数学类、统计学类、经济学类、计算机科学与技术类、电子信息类、电气类、电气工程类",
+    "industry": "电力、热力生产和供应业",
+    "nature": "国企/央企"
+   }
+  },
+  {
+   "company": "华润电力控股有限公司",
+   "type": "国企/央企",
+   "location": "郴州",
+   "positions": [
+    "电气工程师HNCZ"
+   ],
+   "publish_date": "2026-09-30",
+   "deadline": "2026-12-29",
+   "link": "https://www.iguopin.com/job/detail?id=220422235473575940",
+   "source": "iguopin",
+   "batch": "国聘",
+   "deadline_note": "",
+   "extra": {
+    "education": "本科",
+    "major": "电气类、电气工程类、自动化类、自动化类",
+    "industry": "电力、热力生产和供应业",
+    "nature": "国企/央企"
+   },
+   "stale": true
+  },
+  {
+   "company": "华润电力控股有限公司",
+   "type": "国企/央企",
+   "location": "郴州",
+   "positions": [
+    "火电运维工程师HNCZ"
+   ],
+   "publish_date": "2026-09-30",
+   "deadline": "2026-12-29",
+   "link": "https://www.iguopin.com/job/detail?id=220422440239498465",
+   "source": "iguopin",
+   "batch": "国聘",
+   "deadline_note": "",
+   "extra": {
+    "education": "本科",
+    "major": "能源动力类、热能与发电工程类、新能源发电工程类、电力技术类、电气类、电气工程类、自动化类、自动化类",
+    "industry": "电力、热力生产和供应业",
+    "nature": "国企/央企"
+   },
+   "stale": true
+  },
+  {
+   "company": "华润电力控股有限公司",
+   "type": "国企/央企",
+   "location": "太原",
+   "positions": [
+    "财务管理岗BFSX"
+   ],
+   "publish_date": "2026-09-30",
+   "deadline": "2026-12-29",
+   "link": "https://www.iguopin.com/job/detail?id=220417367933453537",
+   "source": "iguopin",
+   "batch": "国聘",
+   "deadline_note": "",
+   "extra": {
+    "education": "硕士",
+    "major": "会计类",
+    "industry": "电力、热力生产和供应业",
+    "nature": "国企/央企"
+   },
+   "stale": true
+  },
+  {
+   "company": "华润电力控股有限公司",
+   "type": "国企/央企",
+   "location": "镇江",
+   "positions": [
+    "火电运维工程师3ZJGS"
+   ],
+   "publish_date": "2026-09-30",
+   "deadline": "2026-12-29",
+   "link": "https://www.iguopin.com/job/detail?id=220410742157869060",
+   "source": "iguopin",
+   "batch": "国聘",
+   "deadline_note": "",
+   "extra": {
+    "education": "硕士",
+    "major": "热能与发电工程类",
+    "industry": "电力、热力生产和供应业",
+    "nature": "国企/央企"
+   },
+   "stale": true
+  },
+  {
+   "company": "华润电力控股有限公司",
+   "type": "国企/央企",
+   "location": "山西",
+   "positions": [
+    "新能源运维工程师BFSX"
+   ],
+   "publish_date": "2026-09-30",
+   "deadline": "2026-12-29",
+   "link": "https://www.iguopin.com/job/detail?id=220418966483371233",
+   "source": "iguopin",
+   "batch": "国聘",
+   "deadline_note": "",
+   "extra": {
+    "education": "本科",
+    "major": "电气工程类",
+    "industry": "电力、热力生产和供应业",
+    "nature": "国企/央企"
+   },
+   "stale": true
+  },
+  {
+   "company": "华润电力控股有限公司",
+   "type": "国企/央企",
+   "location": "太原",
+   "positions": [
+    "交易管理岗BFSX"
+   ],
+   "publish_date": "2026-09-30",
+   "deadline": "2026-12-29",
+   "link": "https://www.iguopin.com/job/detail?id=220389001419292676",
+   "source": "iguopin",
+   "batch": "国聘",
+   "deadline_note": "",
+   "extra": {
+    "education": "硕士",
+    "major": "数学类、统计类、电气工程类",
+    "industry": "电力、热力生产和供应业",
+    "nature": "国企/央企"
    },
    "stale": true
   },
   {
    "company": "华为南京研究所",
    "type": "民企",
-   "location": "上海",
+   "location": "深圳",
    "positions": [
     "研发工程师"
    ],
    "publish_date": "2026-09-30",
    "deadline": "2026-12-31",
-   "link": "https://www.nowcoder.com/jobs/detail/469953",
+   "link": "https://www.nowcoder.com/jobs/detail/469955",
    "source": "nowcoder_jobs",
    "batch": "校招职位",
    "deadline_note": "",
@@ -3226,6 +3605,126 @@
    "extra": {}
   },
   {
+   "company": "北京维景国际大酒店有限责任公司",
+   "type": "国企/央企",
+   "location": "北京-朝阳区",
+   "positions": [
+    "礼宾员"
+   ],
+   "publish_date": "2026-09-30",
+   "deadline": "2026-12-31",
+   "link": "https://www.iguopin.com/job/detail?id=220284548619960324",
+   "source": "iguopin",
+   "batch": "国聘",
+   "deadline_note": "",
+   "extra": {
+    "education": "本科",
+    "major": "专业不限",
+    "industry": "住宿业",
+    "nature": "国企/央企"
+   }
+  },
+  {
+   "company": "北京维景国际大酒店有限责任公司",
+   "type": "国企/央企",
+   "location": "北京-朝阳区",
+   "positions": [
+    "综合维修"
+   ],
+   "publish_date": "2026-09-30",
+   "deadline": "2026-12-31",
+   "link": "https://www.iguopin.com/job/detail?id=220284549643370500",
+   "source": "iguopin",
+   "batch": "国聘",
+   "deadline_note": "",
+   "extra": {
+    "education": "本科",
+    "major": "专业不限",
+    "industry": "住宿业",
+    "nature": "国企/央企"
+   }
+  },
+  {
+   "company": "北京维景国际大酒店有限责任公司",
+   "type": "国企/央企",
+   "location": "北京-朝阳区",
+   "positions": [
+    "餐厅服务员"
+   ],
+   "publish_date": "2026-09-30",
+   "deadline": "2026-12-31",
+   "link": "https://www.iguopin.com/job/detail?id=220284550163464196",
+   "source": "iguopin",
+   "batch": "国聘",
+   "deadline_note": "",
+   "extra": {
+    "education": "本科",
+    "major": "专业不限",
+    "industry": "住宿业",
+    "nature": "国企/央企"
+   }
+  },
+  {
+   "company": "北京广安门维景国际大酒店有限公司",
+   "type": "国企/央企",
+   "location": "北京-西城区",
+   "positions": [
+    "服务员"
+   ],
+   "publish_date": "2026-09-30",
+   "deadline": "2026-12-31",
+   "link": "https://www.iguopin.com/job/detail?id=220284546086600708",
+   "source": "iguopin",
+   "batch": "国聘",
+   "deadline_note": "",
+   "extra": {
+    "education": "本科",
+    "major": "专业不限",
+    "industry": "住宿业",
+    "nature": "国企/央企"
+   }
+  },
+  {
+   "company": "北京广安门维景国际大酒店有限公司",
+   "type": "国企/央企",
+   "location": "北京-西城区",
+   "positions": [
+    "维修工"
+   ],
+   "publish_date": "2026-09-30",
+   "deadline": "2026-12-31",
+   "link": "https://www.iguopin.com/job/detail?id=220284547076456452",
+   "source": "iguopin",
+   "batch": "国聘",
+   "deadline_note": "",
+   "extra": {
+    "education": "本科",
+    "major": "专业不限",
+    "industry": "住宿业",
+    "nature": "国企/央企"
+   }
+  },
+  {
+   "company": "北京广安门维景国际大酒店有限公司",
+   "type": "国企/央企",
+   "location": "北京-西城区",
+   "positions": [
+    "礼宾员"
+   ],
+   "publish_date": "2026-09-30",
+   "deadline": "2026-12-31",
+   "link": "https://www.iguopin.com/job/detail?id=220284547630104580",
+   "source": "iguopin",
+   "batch": "国聘",
+   "deadline_note": "",
+   "extra": {
+    "education": "本科",
+    "major": "专业不限",
+    "industry": "住宿业",
+    "nature": "国企/央企"
+   }
+  },
+  {
    "company": "北京八月瓜科技有限公司",
    "type": "民企",
    "location": "",
@@ -3237,6 +3736,26 @@
    "batch": "",
    "deadline_note": "",
    "extra": {}
+  },
+  {
+   "company": "北京丽都皇冠假日酒店",
+   "type": "国企/央企",
+   "location": "北京-朝阳区",
+   "positions": [
+    "宾客服务接待员"
+   ],
+   "publish_date": "2026-09-30",
+   "deadline": "2026-12-31",
+   "link": "https://www.iguopin.com/job/detail?id=220284552193507332",
+   "source": "iguopin",
+   "batch": "国聘",
+   "deadline_note": "",
+   "extra": {
+    "education": "本科",
+    "major": "专业不限",
+    "industry": "住宿业",
+    "nature": "国企/央企"
+   }
   },
   {
    "company": "兴业数金",
@@ -3256,6 +3775,106 @@
     "major": "",
     "industry": "金融",
     "salary": ""
+   }
+  },
+  {
+   "company": "九龙维景酒店",
+   "type": "国企/央企",
+   "location": "香港-九龙城区",
+   "positions": [
+    "运营岗"
+   ],
+   "publish_date": "2026-09-30",
+   "deadline": "2026-12-31",
+   "link": "https://www.iguopin.com/job/detail?id=220284576738574340",
+   "source": "iguopin",
+   "batch": "国聘",
+   "deadline_note": "",
+   "extra": {
+    "education": "本科",
+    "major": "专业不限",
+    "industry": "住宿业",
+    "nature": "国企/央企"
+   }
+  },
+  {
+   "company": "九龙维景酒店",
+   "type": "国企/央企",
+   "location": "香港-九龙城区",
+   "positions": [
+    "预订岗"
+   ],
+   "publish_date": "2026-09-30",
+   "deadline": "2026-12-31",
+   "link": "https://www.iguopin.com/job/detail?id=220284579624255492",
+   "source": "iguopin",
+   "batch": "国聘",
+   "deadline_note": "",
+   "extra": {
+    "education": "本科",
+    "major": "专业不限",
+    "industry": "住宿业",
+    "nature": "国企/央企"
+   }
+  },
+  {
+   "company": "丽都饭店有限公司",
+   "type": "国企/央企",
+   "location": "北京-朝阳区",
+   "positions": [
+    "餐饮服务岗"
+   ],
+   "publish_date": "2026-09-30",
+   "deadline": "2026-12-31",
+   "link": "https://www.iguopin.com/job/detail?id=220284555146297348",
+   "source": "iguopin",
+   "batch": "国聘",
+   "deadline_note": "",
+   "extra": {
+    "education": "本科",
+    "major": "专业不限",
+    "industry": "住宿业",
+    "nature": "国企/央企"
+   }
+  },
+  {
+   "company": "丽都饭店有限公司",
+   "type": "国企/央企",
+   "location": "北京-朝阳区",
+   "positions": [
+    "前厅接待部"
+   ],
+   "publish_date": "2026-09-30",
+   "deadline": "2026-12-31",
+   "link": "https://www.iguopin.com/job/detail?id=220284556471697412",
+   "source": "iguopin",
+   "batch": "国聘",
+   "deadline_note": "",
+   "extra": {
+    "education": "本科",
+    "major": "专业不限",
+    "industry": "住宿业",
+    "nature": "国企/央企"
+   }
+  },
+  {
+   "company": "丽都饭店有限公司",
+   "type": "国企/央企",
+   "location": "北京-朝阳区",
+   "positions": [
+    "中控员"
+   ],
+   "publish_date": "2026-09-30",
+   "deadline": "2026-12-31",
+   "link": "https://www.iguopin.com/job/detail?id=220284557025345540",
+   "source": "iguopin",
+   "batch": "国聘",
+   "deadline_note": "",
+   "extra": {
+    "education": "本科",
+    "major": "专业不限",
+    "industry": "住宿业",
+    "nature": "国企/央企"
    }
   },
   {
@@ -3401,6 +4020,106 @@
     "education": "本科",
     "major": "工程管理类、机械设计制造类、仪器类、电气工程类、材料科学与工程类、机械类、材料类、电气类、自动化类、机械工程类、材料科学与工程类、土木工程类、智能科学与技术类、安全科学与工程类、土木类、物流管理与工程类",
     "industry": "采矿业",
+    "nature": "国企/央企"
+   }
+  },
+  {
+   "company": "中旅（茫崖）旅游开发有限公司",
+   "type": "国企/央企",
+   "location": "海西",
+   "positions": [
+    "销售岗"
+   ],
+   "publish_date": "2026-09-30",
+   "deadline": "2026-12-31",
+   "link": "https://www.iguopin.com/job/detail?id=220285418904486913",
+   "source": "iguopin",
+   "batch": "国聘",
+   "deadline_note": "",
+   "extra": {
+    "education": "本科",
+    "major": "旅游全类",
+    "industry": "商务服务业",
+    "nature": "国企/央企"
+   }
+  },
+  {
+   "company": "中旅（北京）自驾旅游管理有限公司",
+   "type": "国企/央企",
+   "location": "北京-东城区",
+   "positions": [
+    "产品运作岗"
+   ],
+   "publish_date": "2026-09-30",
+   "deadline": "2026-12-31",
+   "link": "https://www.iguopin.com/job/detail?id=220284590009352196",
+   "source": "iguopin",
+   "batch": "国聘",
+   "deadline_note": "",
+   "extra": {
+    "education": "本科",
+    "major": "旅游管理类",
+    "industry": "商务服务业",
+    "nature": "国企/央企"
+   }
+  },
+  {
+   "company": "中旅数智科技（深圳）有限公司",
+   "type": "国企/央企",
+   "location": "深圳-南山区",
+   "positions": [
+    "数据工程师"
+   ],
+   "publish_date": "2026-09-30",
+   "deadline": "2026-12-31",
+   "link": "https://www.iguopin.com/job/detail?id=220285217829553151",
+   "source": "iguopin",
+   "batch": "国聘",
+   "deadline_note": "",
+   "extra": {
+    "education": "本科",
+    "major": "详见职位描述",
+    "industry": "软件和信息技术服务业",
+    "nature": "国企/央企"
+   }
+  },
+  {
+   "company": "中旅数智科技（深圳）有限公司",
+   "type": "国企/央企",
+   "location": "深圳-南山区",
+   "positions": [
+    "运营专员"
+   ],
+   "publish_date": "2026-09-30",
+   "deadline": "2026-12-31",
+   "link": "https://www.iguopin.com/job/detail?id=220285218366424063",
+   "source": "iguopin",
+   "batch": "国聘",
+   "deadline_note": "",
+   "extra": {
+    "education": "本科",
+    "major": "详见职位描述",
+    "industry": "软件和信息技术服务业",
+    "nature": "国企/央企"
+   }
+  },
+  {
+   "company": "中旅国际会议展览有限公司上海分公司",
+   "type": "国企/央企",
+   "location": "上海-静安区",
+   "positions": [
+    "客户经理"
+   ],
+   "publish_date": "2026-09-30",
+   "deadline": "2026-12-31",
+   "link": "https://www.iguopin.com/job/detail?id=220285210011370495",
+   "source": "iguopin",
+   "batch": "国聘",
+   "deadline_note": "",
+   "extra": {
+    "education": "本科",
+    "major": "旅游管理类",
+    "industry": "商务服务业",
     "nature": "国企/央企"
    }
   },
@@ -3567,6 +4286,46 @@
    "stale": true
   },
   {
+   "company": "中国旅游集团投资和资产管理有限公司",
+   "type": "国企/央企",
+   "location": "北京-西城区",
+   "positions": [
+    "科信岗"
+   ],
+   "publish_date": "2026-09-30",
+   "deadline": "2026-12-31",
+   "link": "https://www.iguopin.com/job/detail?id=220284588449071108",
+   "source": "iguopin",
+   "batch": "国聘",
+   "deadline_note": "",
+   "extra": {
+    "education": "硕士",
+    "major": "计算机类",
+    "industry": "住宿和餐饮业",
+    "nature": "国企/央企"
+   }
+  },
+  {
+   "company": "中国旅游集团中免股份有限公司上海数字科技分公司",
+   "type": "国企/央企",
+   "location": "上海-浦东新区",
+   "positions": [
+    "产品经理"
+   ],
+   "publish_date": "2026-09-30",
+   "deadline": "2026-12-31",
+   "link": "https://www.iguopin.com/job/detail?id=220286574166803680",
+   "source": "iguopin",
+   "batch": "国聘",
+   "deadline_note": "",
+   "extra": {
+    "education": "本科",
+    "major": "详见职位描述",
+    "industry": "软件和信息技术服务业",
+    "nature": "国企/央企"
+   }
+  },
+  {
    "company": "中国国际医药卫生有限公司",
    "type": "国企/央企",
    "location": "北京",
@@ -3584,8 +4343,7 @@
     "major": "哲学类、马克思主义理论类、社会学类、教育学类、新闻传播学类、政治学类、工商管理类、公共管理类",
     "industry": "批发/零售",
     "nature": "国企/央企"
-   },
-   "stale": true
+   }
   },
   {
    "company": "中国东方电气集团有限公司",
@@ -3630,6 +4388,146 @@
    "stale": true
   },
   {
+   "company": "中免（海口）国际免税城有限公司",
+   "type": "国企/央企",
+   "location": "海口-秀英区",
+   "positions": [
+    "零售运营岗"
+   ],
+   "publish_date": "2026-09-30",
+   "deadline": "2026-12-31",
+   "link": "https://www.iguopin.com/job/detail?id=220284532010516484",
+   "source": "iguopin",
+   "batch": "国聘",
+   "deadline_note": "",
+   "extra": {
+    "education": "本科",
+    "major": "专业不限",
+    "industry": "零售业",
+    "nature": "国企/央企"
+   }
+  },
+  {
+   "company": "中免（海南）数字科技有限公司",
+   "type": "国企/央企",
+   "location": "海口-秀英区",
+   "positions": [
+    "产品岗"
+   ],
+   "publish_date": "2026-09-30",
+   "deadline": "2026-12-31",
+   "link": "https://www.iguopin.com/job/detail?id=220284544090112004",
+   "source": "iguopin",
+   "batch": "国聘",
+   "deadline_note": "",
+   "extra": {
+    "education": "本科",
+    "major": "电子信息类",
+    "industry": "零售业",
+    "nature": "国企/央企"
+   }
+  },
+  {
+   "company": "中免（海南）数字科技有限公司",
+   "type": "国企/央企",
+   "location": "海口-秀英区",
+   "positions": [
+    "综合管理岗/人力资源岗"
+   ],
+   "publish_date": "2026-09-30",
+   "deadline": "2026-12-31",
+   "link": "https://www.iguopin.com/job/detail?id=220284544593428484",
+   "source": "iguopin",
+   "batch": "国聘",
+   "deadline_note": "",
+   "extra": {
+    "education": "本科",
+    "major": "专业不限",
+    "industry": "零售业",
+    "nature": "国企/央企"
+   }
+  },
+  {
+   "company": "中免（海南）数字科技有限公司",
+   "type": "国企/央企",
+   "location": "海口-秀英区",
+   "positions": [
+    "研发岗"
+   ],
+   "publish_date": "2026-09-30",
+   "deadline": "2026-12-31",
+   "link": "https://www.iguopin.com/job/detail?id=220284543536463876",
+   "source": "iguopin",
+   "batch": "国聘",
+   "deadline_note": "",
+   "extra": {
+    "education": "本科",
+    "major": "电子信息类",
+    "industry": "零售业",
+    "nature": "国企/央企"
+   }
+  },
+  {
+   "company": "中免集团（北京）免税品有限公司",
+   "type": "国企/央企",
+   "location": "北京-顺义区",
+   "positions": [
+    "库管员"
+   ],
+   "publish_date": "2026-09-30",
+   "deadline": "2026-12-31",
+   "link": "https://www.iguopin.com/job/detail?id=220284541456089092",
+   "source": "iguopin",
+   "batch": "国聘",
+   "deadline_note": "",
+   "extra": {
+    "education": "本科",
+    "major": "专业不限",
+    "industry": "零售业",
+    "nature": "国企/央企"
+   }
+  },
+  {
+   "company": "中免集团（上海）免税品有限公司",
+   "type": "国企/央企",
+   "location": "上海-浦东新区",
+   "positions": [
+    "销售岗"
+   ],
+   "publish_date": "2026-09-30",
+   "deadline": "2026-12-31",
+   "link": "https://www.iguopin.com/job/detail?id=220284539811921924",
+   "source": "iguopin",
+   "batch": "国聘",
+   "deadline_note": "",
+   "extra": {
+    "education": "本科",
+    "major": "专业不限",
+    "industry": "零售业",
+    "nature": "国企/央企"
+   }
+  },
+  {
+   "company": "中免集团（上海）免税品有限公司",
+   "type": "国企/央企",
+   "location": "上海-浦东新区",
+   "positions": [
+    "运维管理岗"
+   ],
+   "publish_date": "2026-09-30",
+   "deadline": "2026-12-31",
+   "link": "https://www.iguopin.com/job/detail?id=220284540868886532",
+   "source": "iguopin",
+   "batch": "国聘",
+   "deadline_note": "",
+   "extra": {
+    "education": "本科",
+    "major": "详见职位描述",
+    "industry": "零售业",
+    "nature": "国企/央企"
+   }
+  },
+  {
    "company": "上海奥萌尼科技有限公司",
    "type": "互联网",
    "location": "上海",
@@ -3672,14 +4570,14 @@
   {
    "company": "上海亿普链信息科技有限公司",
    "type": "互联网",
-   "location": "上海",
+   "location": "武汉",
    "positions": [
     ".net管培生",
     "2027届"
    ],
    "publish_date": "2026-09-30",
    "deadline": "2028-10-30",
-   "link": "https://www.nowcoder.com/jobs/detail/469959",
+   "link": "https://www.nowcoder.com/jobs/detail/469960",
    "source": "nowcoder_jobs",
    "batch": "27届秋招",
    "deadline_note": "",
@@ -4453,7 +5351,8 @@
     "major": "材料与化工类",
     "industry": "航天",
     "nature": "国企/央企"
-   }
+   },
+   "stale": true
   },
   {
    "company": "浙江全方科技有限公司",
@@ -4751,7 +5650,8 @@
     "major": "计算机科学与技术类、能源动力类、电子科学与技术类、电气类、自动化类",
     "industry": "软件和信息技术服务业",
     "nature": "国企/央企"
-   }
+   },
+   "stale": true
   },
   {
    "company": "国电投网络安全技术（安徽）有限公司",
@@ -4771,7 +5671,8 @@
     "major": "法学类、财务会计类、金融类、国际商务类",
     "industry": "软件和信息技术服务业",
     "nature": "国企/央企"
-   }
+   },
+   "stale": true
   },
   {
    "company": "国家电投集团水电股份有限公司",
@@ -4860,39 +5761,19 @@
   {
    "company": "华润电力控股有限公司",
    "type": "国企/央企",
-   "location": "重庆",
+   "location": "忻州-宁武县",
    "positions": [
-    "光伏管理岗CNCY/管理培训生"
+    "火电运维工程师BFXZ1/管理培训生"
    ],
    "publish_date": "2026-09-29",
    "deadline": "2026-10-31",
-   "link": "https://www.iguopin.com/job/detail?id=220417819525776381",
-   "source": "iguopin",
-   "batch": "国聘",
-   "deadline_note": "",
-   "extra": {
-    "education": "本科",
-    "major": "电气类、电气工程类、新能源发电工程类、能源动力类",
-    "industry": "电力、热力生产和供应业",
-    "nature": "国企/央企"
-   }
-  },
-  {
-   "company": "华润电力控股有限公司",
-   "type": "国企/央企",
-   "location": "重庆",
-   "positions": [
-    "人力资源岗CNCY/管理培训生"
-   ],
-   "publish_date": "2026-09-29",
-   "deadline": "2026-10-31",
-   "link": "https://www.iguopin.com/job/detail?id=220419864668405764",
+   "link": "https://www.iguopin.com/job/detail?id=220383074129543172",
    "source": "iguopin",
    "batch": "国聘",
    "deadline_note": "",
    "extra": {
     "education": "硕士",
-    "major": "工商管理类、公共管理类",
+    "major": "管理科学与工程类、电子信息类、电子科学与技术类、数学类、统计学类",
     "industry": "电力、热力生产和供应业",
     "nature": "国企/央企"
    }
@@ -4902,17 +5783,77 @@
    "type": "国企/央企",
    "location": "重庆",
    "positions": [
-    "电气工程师CNCY/管理培训生"
+    "市场开发管理岗CNZF"
    ],
    "publish_date": "2026-09-29",
    "deadline": "2026-10-31",
-   "link": "https://www.iguopin.com/job/detail?id=220418777420923888",
+   "link": "https://www.iguopin.com/job/detail?id=220392321093468164",
+   "source": "iguopin",
+   "batch": "国聘",
+   "deadline_note": "",
+   "extra": {
+    "education": "硕士",
+    "major": "能源动力类、电气类、矿业类、环境科学与工程类、电气工程类、动力工程及工程热物理类、土木工程类、资源与环境类",
+    "industry": "电力、热力生产和供应业",
+    "nature": "国企/央企"
+   }
+  },
+  {
+   "company": "华润电力控股有限公司",
+   "type": "国企/央企",
+   "location": "重庆",
+   "positions": [
+    "机械管理岗（水电方向）CNCY/管理培训生"
+   ],
+   "publish_date": "2026-09-29",
+   "deadline": "2026-10-31",
+   "link": "https://www.iguopin.com/job/detail?id=220418261169209348",
    "source": "iguopin",
    "batch": "国聘",
    "deadline_note": "",
    "extra": {
     "education": "本科",
-    "major": "电气类、电气工程类、自动化类",
+    "major": "能源动力类、热能与发电工程类、机械工程类、机械类",
+    "industry": "电力、热力生产和供应业",
+    "nature": "国企/央企"
+   }
+  },
+  {
+   "company": "华润电力控股有限公司",
+   "type": "国企/央企",
+   "location": "重庆",
+   "positions": [
+    "火电运维工程师CNCY/管理培训生"
+   ],
+   "publish_date": "2026-09-29",
+   "deadline": "2026-10-31",
+   "link": "https://www.iguopin.com/job/detail?id=220415310459569149",
+   "source": "iguopin",
+   "batch": "国聘",
+   "deadline_note": "",
+   "extra": {
+    "education": "本科",
+    "major": "电力技术类、热能与发电工程类、能源动力类、自动化类",
+    "industry": "电力、热力生产和供应业",
+    "nature": "国企/央企"
+   }
+  },
+  {
+   "company": "华润电力控股有限公司",
+   "type": "国企/央企",
+   "location": "重庆",
+   "positions": [
+    "热控工程师CNQN/管理培训生"
+   ],
+   "publish_date": "2026-09-29",
+   "deadline": "2026-10-31",
+   "link": "https://www.iguopin.com/job/detail?id=220401061385469956",
+   "source": "iguopin",
+   "batch": "国聘",
+   "deadline_note": "",
+   "extra": {
+    "education": "本科",
+    "major": "自动化类、仪器类、热能与发电工程类、控制科学与工程类",
     "industry": "电力、热力生产和供应业",
     "nature": "国企/央企"
    }
@@ -4935,107 +5876,8 @@
     "major": "能源动力类",
     "industry": "电力、热力生产和供应业",
     "nature": "国企/央企"
-   }
-  },
-  {
-   "company": "华润电力控股有限公司",
-   "type": "国企/央企",
-   "location": "重庆",
-   "positions": [
-    "信息化工程师CNCY/管理培训生"
-   ],
-   "publish_date": "2026-09-29",
-   "deadline": "2026-10-31",
-   "link": "https://www.iguopin.com/job/detail?id=220417457456677872",
-   "source": "iguopin",
-   "batch": "国聘",
-   "deadline_note": "",
-   "extra": {
-    "education": "硕士",
-    "major": "计算机科学与技术类、计算机类、计算机科学与技术类、网络空间安全类、软件工程类、电子信息类、数学类",
-    "industry": "电力、热力生产和供应业",
-    "nature": "国企/央企"
-   }
-  },
-  {
-   "company": "华润电力控股有限公司",
-   "type": "国企/央企",
-   "location": "锡林郭勒",
-   "positions": [
-    "电气工程师BFMD/管理培训生"
-   ],
-   "publish_date": "2026-09-29",
-   "deadline": "2026-10-31",
-   "link": "https://www.iguopin.com/job/detail?id=220399447635394564",
-   "source": "iguopin",
-   "batch": "国聘",
-   "deadline_note": "",
-   "extra": {
-    "education": "本科",
-    "major": "电气类、电力技术类",
-    "industry": "电力、热力生产和供应业",
-    "nature": "国企/央企"
-   }
-  },
-  {
-   "company": "华润电力控股有限公司",
-   "type": "国企/央企",
-   "location": "锡林郭勒",
-   "positions": [
-    "风机工程师BFMD/管理培训生"
-   ],
-   "publish_date": "2026-09-29",
-   "deadline": "2026-10-31",
-   "link": "https://www.iguopin.com/job/detail?id=220399581517579261",
-   "source": "iguopin",
-   "batch": "国聘",
-   "deadline_note": "",
-   "extra": {
-    "education": "本科",
-    "major": "电力技术类、电气类、新能源发电工程类、控制科学与工程类、机械类",
-    "industry": "电力、热力生产和供应业",
-    "nature": "国企/央企"
-   }
-  },
-  {
-   "company": "华润电力控股有限公司",
-   "type": "国企/央企",
-   "location": "重庆",
-   "positions": [
-    "化学运行工程师CNQN/管理培训生"
-   ],
-   "publish_date": "2026-09-29",
-   "deadline": "2026-10-31",
-   "link": "https://www.iguopin.com/job/detail?id=220402063354365152",
-   "source": "iguopin",
-   "batch": "国聘",
-   "deadline_note": "",
-   "extra": {
-    "education": "本科",
-    "major": "化学类",
-    "industry": "电力、热力生产和供应业",
-    "nature": "国企/央企"
-   }
-  },
-  {
-   "company": "华润电力控股有限公司",
-   "type": "国企/央企",
-   "location": "忻州-宁武县",
-   "positions": [
-    "火电运维工程师BFXZ1/管理培训生"
-   ],
-   "publish_date": "2026-09-29",
-   "deadline": "2026-10-31",
-   "link": "https://www.iguopin.com/job/detail?id=220383074129543172",
-   "source": "iguopin",
-   "batch": "国聘",
-   "deadline_note": "",
-   "extra": {
-    "education": "硕士",
-    "major": "管理科学与工程类、电子信息类、电子科学与技术类、数学类、统计学类",
-    "industry": "电力、热力生产和供应业",
-    "nature": "国企/央企"
-   }
+   },
+   "stale": true
   },
   {
    "company": "华润电力控股有限公司",
@@ -5055,27 +5897,8 @@
     "major": "财务会计类",
     "industry": "电力、热力生产和供应业",
     "nature": "国企/央企"
-   }
-  },
-  {
-   "company": "华润电力控股有限公司",
-   "type": "国企/央企",
-   "location": "忻州-宁武县",
-   "positions": [
-    "火电运维工程师BFXZ2/管理培训生"
-   ],
-   "publish_date": "2026-09-29",
-   "deadline": "2026-10-31",
-   "link": "https://www.iguopin.com/job/detail?id=220385970078351364",
-   "source": "iguopin",
-   "batch": "国聘",
-   "deadline_note": "",
-   "extra": {
-    "education": "本科",
-    "major": "热能与发电工程类、电力技术类、能源动力类、电气类、自动化类",
-    "industry": "电力、热力生产和供应业",
-    "nature": "国企/央企"
-   }
+   },
+   "stale": true
   },
   {
    "company": "华润万家有限公司",
@@ -5321,8 +6144,7 @@
     "major": "化工与制药类、材料类、化学工程与技术类、环境科学与工程类、材料与化工类、资源与环境类",
     "industry": "废弃资源综合利用业",
     "nature": "国企/央企"
-   },
-   "stale": true
+   }
   },
   {
    "company": "中国航空工业集团公司人力资源中心",
@@ -5732,7 +6554,8 @@
     "major": "政治学类、中共党史党建学类、马克思主义理论类",
     "industry": "土木工程建筑业",
     "nature": "国企/央企"
-   }
+   },
+   "stale": true
   },
   {
    "company": "中国保险保障基金有限责任公司",
@@ -5752,7 +6575,8 @@
     "major": "详见职位描述",
     "industry": "保险业",
     "nature": "国企/央企"
-   }
+   },
+   "stale": true
   },
   {
    "company": "中国保险保障基金有限责任公司",
@@ -5772,7 +6596,8 @@
     "major": "详见职位描述",
     "industry": "保险业",
     "nature": "国企/央企"
-   }
+   },
+   "stale": true
   },
   {
    "company": "中国保险保障基金有限责任公司",
@@ -5792,7 +6617,8 @@
     "major": "详见职位描述",
     "industry": "保险业",
     "nature": "国企/央企"
-   }
+   },
+   "stale": true
   },
   {
    "company": "中国东方电气集团有限公司",
@@ -5874,7 +6700,8 @@
     "major": "统计学类、数学类、应用统计类",
     "industry": "批发业",
     "nature": "国企/央企"
-   }
+   },
+   "stale": true
   },
   {
    "company": "长春宝钢钢材贸易有限公司",
@@ -5929,66 +6756,6 @@
    "extra": {
     "education": "本科",
     "major": "经济学类、财政学类",
-    "industry": "制造业",
-    "nature": "国企/央企"
-   }
-  },
-  {
-   "company": "酒泉钢铁（集团）有限责任公司",
-   "type": "国企/央企",
-   "location": "嘉峪关",
-   "positions": [
-    "智能化人才储备（计算机类）"
-   ],
-   "publish_date": "2026-09-28",
-   "deadline": "2026-12-26",
-   "link": "https://www.iguopin.com/job/detail?id=220197708776866818",
-   "source": "iguopin",
-   "batch": "国聘",
-   "deadline_note": "",
-   "extra": {
-    "education": "本科",
-    "major": "计算机类、智能科学与技术类",
-    "industry": "制造业",
-    "nature": "国企/央企"
-   }
-  },
-  {
-   "company": "酒泉钢铁（集团）有限责任公司",
-   "type": "国企/央企",
-   "location": "嘉峪关",
-   "positions": [
-    "高校教师"
-   ],
-   "publish_date": "2026-09-28",
-   "deadline": "2026-12-26",
-   "link": "https://www.iguopin.com/job/detail?id=220198626272478192",
-   "source": "iguopin",
-   "batch": "国聘",
-   "deadline_note": "",
-   "extra": {
-    "education": "硕士",
-    "major": "冶金工程类、机械工程类、电气工程类、计算机科学与技术类",
-    "industry": "制造业",
-    "nature": "国企/央企"
-   }
-  },
-  {
-   "company": "酒泉钢铁（集团）有限责任公司",
-   "type": "国企/央企",
-   "location": "嘉峪关",
-   "positions": [
-    "工艺工程师（冶金）"
-   ],
-   "publish_date": "2026-09-28",
-   "deadline": "2026-12-26",
-   "link": "https://www.iguopin.com/job/detail?id=220198140840510468",
-   "source": "iguopin",
-   "batch": "国聘",
-   "deadline_note": "",
-   "extra": {
-    "education": "本科",
-    "major": "材料类",
     "industry": "制造业",
     "nature": "国企/央企"
    }
@@ -7353,7 +8120,8 @@
     "major": "电气类、土木工程类、自动化类、城乡规划与管理类、力学类（工学）、材料类、建筑学类、测绘类、交通运输类、机械类",
     "industry": "土木工程建筑业",
     "nature": "国企/央企"
-   }
+   },
+   "stale": true
   },
   {
    "company": "中国人民大学出版社有限公司",
@@ -7375,6 +8143,26 @@
     "nature": "国企/央企"
    },
    "stale": true
+  },
+  {
+   "company": "中国东方电气集团有限公司",
+   "type": "国企/央企",
+   "location": "德阳",
+   "positions": [
+    "数控操作工（劳务派遣）"
+   ],
+   "publish_date": "2026-09-28",
+   "deadline": "2026-12-26",
+   "link": "https://www.iguopin.com/job/detail?id=220244533818950660",
+   "source": "iguopin",
+   "batch": "国聘",
+   "deadline_note": "",
+   "extra": {
+    "education": "大专",
+    "major": "机械类",
+    "industry": "专用设备制造业",
+    "nature": "国企/央企"
+   }
   },
   {
    "company": "中国东方电气集团有限公司",
@@ -7466,26 +8254,6 @@
    "publish_date": "2026-09-28",
    "deadline": "2026-12-26",
    "link": "https://www.iguopin.com/job/detail?id=220244152305057796",
-   "source": "iguopin",
-   "batch": "国聘",
-   "deadline_note": "",
-   "extra": {
-    "education": "大专",
-    "major": "机械类",
-    "industry": "专用设备制造业",
-    "nature": "国企/央企"
-   }
-  },
-  {
-   "company": "中国东方电气集团有限公司",
-   "type": "国企/央企",
-   "location": "德阳",
-   "positions": [
-    "数控操作工（劳务派遣）"
-   ],
-   "publish_date": "2026-09-28",
-   "deadline": "2026-12-26",
-   "link": "https://www.iguopin.com/job/detail?id=220244533818950660",
    "source": "iguopin",
    "batch": "国聘",
    "deadline_note": "",
@@ -7815,7 +8583,8 @@
     "major": "材料类、化学类、机械类、自动化类",
     "industry": "航天",
     "nature": "国企/央企"
-   }
+   },
+   "stale": true
   },
   {
    "company": "中石化中原石油工程有限公司",
@@ -8009,7 +8778,8 @@
     "major": "市政工程类",
     "industry": "信息传输、软件和信息技术服务业",
     "nature": "国企/央企"
-   }
+   },
+   "stale": true
   },
   {
    "company": "正元地理信息集团股份有限公司",
@@ -8029,7 +8799,8 @@
     "major": "计算机类、数学类",
     "industry": "信息传输、软件和信息技术服务业",
     "nature": "国企/央企"
-   }
+   },
+   "stale": true
   },
   {
    "company": "正元地理信息集团股份有限公司",
@@ -8049,7 +8820,8 @@
     "major": "测绘地理信息类",
     "industry": "信息传输、软件和信息技术服务业",
     "nature": "国企/央企"
-   }
+   },
+   "stale": true
   },
   {
    "company": "正元国际矿业有限公司",
@@ -8069,7 +8841,8 @@
     "major": "新闻传播全类、中国语言文学类、新闻传播学类、新闻传播学类（交叉专业）、新闻与传播类、马克思主义理论类",
     "industry": "采矿业",
     "nature": "国企/央企"
-   }
+   },
+   "stale": true
   },
   {
    "company": "正元国际矿业有限公司",
@@ -8089,7 +8862,8 @@
     "major": "诉讼法学类、经济法学类、审计类、法学理论类、民商法学类",
     "industry": "采矿业",
     "nature": "国企/央企"
-   }
+   },
+   "stale": true
   },
   {
    "company": "晶日金刚石工业有限公司",
@@ -8109,7 +8883,8 @@
     "major": "财务会计类、审计类、详见职位描述",
     "industry": "非金属矿物制品业",
     "nature": "国企/央企"
-   }
+   },
+   "stale": true
   },
   {
    "company": "广州岭南酒店物业管理有限公司汕头分公司",
@@ -8150,8 +8925,7 @@
     "major": "地质类、地质资源与地质工程类",
     "industry": "土木工程建筑业",
     "nature": "国企/央企"
-   },
-   "stale": true
+   }
   },
   {
    "company": "中国航天空气动力技术研究院",
@@ -8213,7 +8987,8 @@
     "major": "详见职位描述",
     "industry": "科学研究和技术服务业",
     "nature": "事业单位"
-   }
+   },
+   "stale": true
   },
   {
    "company": "中国冶金地质总局三局",
@@ -8233,7 +9008,8 @@
     "major": "详见职位描述",
     "industry": "科学研究和技术服务业",
     "nature": "事业单位"
-   }
+   },
+   "stale": true
   },
   {
    "company": "中国冶金地质总局三局",
@@ -8253,7 +9029,8 @@
     "major": "详见职位描述",
     "industry": "科学研究和技术服务业",
     "nature": "事业单位"
-   }
+   },
+   "stale": true
   },
   {
    "company": "中国冶金地质总局三局",
@@ -8273,7 +9050,8 @@
     "major": "详见职位描述",
     "industry": "科学研究和技术服务业",
     "nature": "事业单位"
-   }
+   },
+   "stale": true
   },
   {
    "company": "中国冶金地质总局三局",
@@ -8293,7 +9071,8 @@
     "major": "详见职位描述",
     "industry": "科学研究和技术服务业",
     "nature": "事业单位"
-   }
+   },
+   "stale": true
   },
   {
    "company": "鹏城新能",
@@ -10200,13 +10979,73 @@
   {
    "company": "华润雪花啤酒（中国）有限公司",
    "type": "国企/央企",
-   "location": "三亚-吉阳区",
+   "location": "长沙-岳麓区",
    "positions": [
-    "销售管培生（三亚）"
+    "销售管培生（长沙）"
    ],
    "publish_date": "2026-09-24",
    "deadline": "2026-12-22",
-   "link": "https://www.iguopin.com/job/detail?id=219646522923418298",
+   "link": "https://www.iguopin.com/job/detail?id=219651073709703872",
+   "source": "iguopin",
+   "batch": "国聘",
+   "deadline_note": "",
+   "extra": {
+    "education": "本科",
+    "major": "专业不限",
+    "industry": "酒、饮料、精制茶制造业",
+    "nature": "国企/央企"
+   }
+  },
+  {
+   "company": "华润雪花啤酒（中国）有限公司",
+   "type": "国企/央企",
+   "location": "重庆-九龙坡区",
+   "positions": [
+    "销售管培生（重庆）"
+   ],
+   "publish_date": "2026-09-24",
+   "deadline": "2026-12-22",
+   "link": "https://www.iguopin.com/job/detail?id=219650785057702586",
+   "source": "iguopin",
+   "batch": "国聘",
+   "deadline_note": "",
+   "extra": {
+    "education": "本科",
+    "major": "专业不限",
+    "industry": "酒、饮料、精制茶制造业",
+    "nature": "国企/央企"
+   }
+  },
+  {
+   "company": "华润雪花啤酒（中国）有限公司",
+   "type": "国企/央企",
+   "location": "大连-沙河口区",
+   "positions": [
+    "销售管培生（大连）"
+   ],
+   "publish_date": "2026-09-24",
+   "deadline": "2026-12-22",
+   "link": "https://www.iguopin.com/job/detail?id=219647565124076267",
+   "source": "iguopin",
+   "batch": "国聘",
+   "deadline_note": "",
+   "extra": {
+    "education": "本科",
+    "major": "专业不限",
+    "industry": "酒、饮料、精制茶制造业",
+    "nature": "国企/央企"
+   }
+  },
+  {
+   "company": "华润雪花啤酒（中国）有限公司",
+   "type": "国企/央企",
+   "location": "金华-婺城区",
+   "positions": [
+    "销售管培生（金华）"
+   ],
+   "publish_date": "2026-09-24",
+   "deadline": "2026-12-22",
+   "link": "https://www.iguopin.com/job/detail?id=219656065367671537",
    "source": "iguopin",
    "batch": "国聘",
    "deadline_note": "",
@@ -11301,8 +12140,7 @@
     "major": "财务会计类、会计类",
     "industry": "其他",
     "nature": "国企/央企"
-   },
-   "stale": true
+   }
   },
   {
    "company": "中国民主法制出版社有限公司",
@@ -12434,8 +13272,7 @@
     "major": "考古学类、文物类、美术学类、博物馆类、历史学类",
     "industry": "新闻和出版业",
     "nature": "国企/央企"
-   },
-   "stale": true
+   }
   },
   {
    "company": "生活·读书·新知三联书店有限公司",
@@ -13005,8 +13842,7 @@
     "major": "临床医学类、中医学类",
     "industry": "卫生",
     "nature": "国企/央企"
-   },
-   "stale": true
+   }
   },
   {
    "company": "宜春职业技术学院（宜春市技术工人学校）",
@@ -13152,7 +13988,8 @@
     "major": "",
     "industry": "金融业",
     "nature": "国企/央企"
-   }
+   },
+   "stale": true
   },
   {
    "company": "国家电投集团福建电力有限公司",
@@ -13235,7 +14072,8 @@
     "major": "公共管理类、工商管理类、教育学类",
     "industry": "新闻和出版业",
     "nature": "国企/央企"
-   }
+   },
+   "stale": true
   },
   {
    "company": "哥俩好",
@@ -13651,8 +14489,7 @@
     "major": "新闻传播学类、工商管理类",
     "industry": "印刷和记录媒介复制业",
     "nature": "国企/央企"
-   },
-   "stale": true
+   }
   },
   {
    "company": "包头铝业有限公司",
@@ -13672,27 +14509,6 @@
     "major": "新闻传播学类、新闻传播学类（交叉专业）、新闻与传播类",
     "industry": "有色金属冶炼和压延加工业",
     "nature": "国企/央企"
-   },
-   "stale": true
-  },
-  {
-   "company": "内蒙古蒙牛乳业（集团）股份有限公司",
-   "type": "国企/央企",
-   "location": "北京",
-   "positions": [
-    "财务未来星(J67618)"
-   ],
-   "publish_date": "2026-09-23",
-   "deadline": "2026-12-06",
-   "link": "https://www.iguopin.com/job/detail?id=219513321743712960",
-   "source": "iguopin",
-   "batch": "国聘",
-   "deadline_note": "",
-   "extra": {
-    "education": "本科",
-    "major": "财务会计类、金融类、经济学类、经济学全类、统计学类",
-    "industry": "制造业",
-    "nature": "国企/央企"
    }
   },
   {
@@ -13700,57 +14516,17 @@
    "type": "国企/央企",
    "location": "北京",
    "positions": [
-    "数智化未来星\n（数据方向-国际化）(J67648)"
+    "市场未来星(J67628)"
    ],
    "publish_date": "2026-09-23",
    "deadline": "2026-12-06",
-   "link": "https://www.iguopin.com/job/detail?id=219503352973624000",
-   "source": "iguopin",
-   "batch": "国聘",
-   "deadline_note": "",
-   "extra": {
-    "education": "本科",
-    "major": "计算机科学与技术类、计算机类、统计学类、数学类、软件工程类",
-    "industry": "制造业",
-    "nature": "国企/央企"
-   }
-  },
-  {
-   "company": "内蒙古蒙牛乳业（集团）股份有限公司",
-   "type": "国企/央企",
-   "location": "北京",
-   "positions": [
-    "研发未来星(J67619)"
-   ],
-   "publish_date": "2026-09-23",
-   "deadline": "2026-12-06",
-   "link": "https://www.iguopin.com/job/detail?id=219513128151417536",
+   "link": "https://www.iguopin.com/job/detail?id=219512311688200895",
    "source": "iguopin",
    "batch": "国聘",
    "deadline_note": "",
    "extra": {
     "education": "硕士",
-    "major": "食品与营养类、公共卫生类、食品科学与工程类",
-    "industry": "制造业",
-    "nature": "国企/央企"
-   }
-  },
-  {
-   "company": "内蒙古蒙牛乳业（集团）股份有限公司",
-   "type": "国企/央企",
-   "location": "北京",
-   "positions": [
-    "研发未来星(J67638)"
-   ],
-   "publish_date": "2026-09-23",
-   "deadline": "2026-12-06",
-   "link": "https://www.iguopin.com/job/detail?id=219506962709086912",
-   "source": "iguopin",
-   "batch": "国聘",
-   "deadline_note": "",
-   "extra": {
-    "education": "硕士",
-    "major": "生物技术类、生物学类、化学类",
+    "major": "新闻传播学类、新闻与传播类、新闻传播学类（交叉专业）、新闻传播全类",
     "industry": "制造业",
     "nature": "国企/央企"
    }
@@ -13760,17 +14536,17 @@
    "type": "国企/央企",
    "location": "上海",
    "positions": [
-    "研发未来星（国际化）(J67640)"
+    "销售未来星(J67630)"
    ],
    "publish_date": "2026-09-23",
    "deadline": "2026-12-06",
-   "link": "https://www.iguopin.com/job/detail?id=219505622847062719",
+   "link": "https://www.iguopin.com/job/detail?id=219507764139918016",
    "source": "iguopin",
    "batch": "国聘",
    "deadline_note": "",
    "extra": {
-    "education": "硕士",
-    "major": "生物与化工全类、生物学类",
+    "education": "本科",
+    "major": "新闻传播学类、新闻传播学类（交叉专业）、新闻与传播类、新闻传播全类",
     "industry": "制造业",
     "nature": "国企/央企"
    }
@@ -13780,37 +14556,17 @@
    "type": "国企/央企",
    "location": "北京",
    "positions": [
-    "人力资源未来星（国际化）(J67657)"
+    "战略未来星（国际化）(J67643)"
    ],
    "publish_date": "2026-09-23",
    "deadline": "2026-12-06",
-   "link": "https://www.iguopin.com/job/detail?id=219481550511669952",
+   "link": "https://www.iguopin.com/job/detail?id=219504485569921727",
    "source": "iguopin",
    "batch": "国聘",
    "deadline_note": "",
    "extra": {
     "education": "硕士",
-    "major": "工商管理类、应用心理类、社会学类、工业工程类",
-    "industry": "制造业",
-    "nature": "国企/央企"
-   }
-  },
-  {
-   "company": "内蒙古蒙牛乳业（集团）股份有限公司",
-   "type": "国企/央企",
-   "location": "天津",
-   "positions": [
-    "数智化未来星(J67610)"
-   ],
-   "publish_date": "2026-09-23",
-   "deadline": "2026-12-06",
-   "link": "https://www.iguopin.com/job/detail?id=219514183840957119",
-   "source": "iguopin",
-   "batch": "国聘",
-   "deadline_note": "",
-   "extra": {
-    "education": "本科",
-    "major": "自动化类、电气工程类、电气类、机械工程类、机械设计制造类、机械类、计算机科学与技术类、计算机类",
+    "major": "工商管理类、管理学全类、经济学全类、经济学类",
     "industry": "制造业",
     "nature": "国企/央企"
    }
@@ -13875,7 +14631,8 @@
     "major": "出版类、计算机科学与技术类、电子信息类",
     "industry": "新闻和出版业",
     "nature": "国企/央企"
-   }
+   },
+   "stale": true
   },
   {
    "company": "中铁上海工程局集团第三工程有限公司",
@@ -14310,6 +15067,66 @@
   {
    "company": "中国机械工业集团有限公司",
    "type": "国企/央企",
+   "location": "南京",
+   "positions": [
+    "产品研发工程师（2027届青蓝计划）"
+   ],
+   "publish_date": "2026-09-23",
+   "deadline": "2026-10-31",
+   "link": "https://www.iguopin.com/job/detail?id=219370933528298099",
+   "source": "iguopin",
+   "batch": "国聘",
+   "deadline_note": "",
+   "extra": {
+    "education": "博士",
+    "major": "专业不限",
+    "industry": "其他制造业",
+    "nature": "国企/央企"
+   }
+  },
+  {
+   "company": "中国机械工业集团有限公司",
+   "type": "国企/央企",
+   "location": "泰州",
+   "positions": [
+    "技术研发（2027届青蓝计划）"
+   ],
+   "publish_date": "2026-09-23",
+   "deadline": "2026-10-31",
+   "link": "https://www.iguopin.com/job/detail?id=219360494962606707",
+   "source": "iguopin",
+   "batch": "国聘",
+   "deadline_note": "",
+   "extra": {
+    "education": "硕士",
+    "major": "专业不限",
+    "industry": "其他制造业",
+    "nature": "国企/央企"
+   }
+  },
+  {
+   "company": "中国机械工业集团有限公司",
+   "type": "国企/央企",
+   "location": "重庆",
+   "positions": [
+    "科研管理方向（2027届青蓝计划）"
+   ],
+   "publish_date": "2026-09-23",
+   "deadline": "2026-10-31",
+   "link": "https://www.iguopin.com/job/detail?id=219371192132305523",
+   "source": "iguopin",
+   "batch": "国聘",
+   "deadline_note": "",
+   "extra": {
+    "education": "硕士",
+    "major": "专业不限",
+    "industry": "其他制造业",
+    "nature": "国企/央企"
+   }
+  },
+  {
+   "company": "中国机械工业集团有限公司",
+   "type": "国企/央企",
    "location": "北京",
    "positions": [
     "大数据分析与建模（2027届青蓝计划）"
@@ -14345,87 +15162,8 @@
     "major": "专业不限",
     "industry": "其他制造业",
     "nature": "国企/央企"
-   }
-  },
-  {
-   "company": "中国机械工业集团有限公司",
-   "type": "国企/央企",
-   "location": "重庆",
-   "positions": [
-    "审查调查、综合监督管理方向（2027届青蓝计划）"
-   ],
-   "publish_date": "2026-09-23",
-   "deadline": "2026-10-31",
-   "link": "https://www.iguopin.com/job/detail?id=219370213886394995",
-   "source": "iguopin",
-   "batch": "国聘",
-   "deadline_note": "",
-   "extra": {
-    "education": "硕士",
-    "major": "专业不限",
-    "industry": "其他制造业",
-    "nature": "国企/央企"
-   }
-  },
-  {
-   "company": "中国机械工业集团有限公司",
-   "type": "国企/央企",
-   "location": "桂林",
-   "positions": [
-    "绝缘材料（2027届青蓝计划）"
-   ],
-   "publish_date": "2026-09-23",
-   "deadline": "2026-10-31",
-   "link": "https://www.iguopin.com/job/detail?id=219361393986503296",
-   "source": "iguopin",
-   "batch": "国聘",
-   "deadline_note": "",
-   "extra": {
-    "education": "硕士",
-    "major": "专业不限",
-    "industry": "其他制造业",
-    "nature": "国企/央企"
-   }
-  },
-  {
-   "company": "中国机械工业集团有限公司",
-   "type": "国企/央企",
-   "location": "南京",
-   "positions": [
-    "审计专员（2027届青蓝计划）"
-   ],
-   "publish_date": "2026-09-23",
-   "deadline": "2026-10-31",
-   "link": "https://www.iguopin.com/job/detail?id=219373312738853555",
-   "source": "iguopin",
-   "batch": "国聘",
-   "deadline_note": "",
-   "extra": {
-    "education": "硕士",
-    "major": "专业不限",
-    "industry": "其他制造业",
-    "nature": "国企/央企"
-   }
-  },
-  {
-   "company": "中国机械工业集团有限公司",
-   "type": "国企/央企",
-   "location": "郑州",
-   "positions": [
-    "智能制造岗(偏应用)（2027届青蓝计划）"
-   ],
-   "publish_date": "2026-09-23",
-   "deadline": "2026-10-31",
-   "link": "https://www.iguopin.com/job/detail?id=219367073376109178",
-   "source": "iguopin",
-   "batch": "国聘",
-   "deadline_note": "",
-   "extra": {
-    "education": "硕士",
-    "major": "专业不限",
-    "industry": "其他制造业",
-    "nature": "国企/央企"
-   }
+   },
+   "stale": true
   },
   {
    "company": "中国安能集团第二工程局有限公司厦门分公司",
@@ -14453,42 +15191,20 @@
    "type": "国企/央企",
    "location": "北京-西城区",
    "positions": [
-    "社科学术分社-综合编辑"
+    "数字编辑"
    ],
    "publish_date": "2026-09-23",
    "deadline": "2026-11-15",
-   "link": "https://www.iguopin.com/job/detail?id=218414005570502844",
+   "link": "https://www.iguopin.com/job/detail?id=218414003725009084",
    "source": "iguopin",
    "batch": "国聘",
    "deadline_note": "",
    "extra": {
     "education": "硕士",
-    "major": "哲学类、历史学类、博物馆类、教育学类、艺术学类、社会学类、中国语言文学类",
+    "major": "金融学类、心理学类、出版类、新闻与传播类、医学全类",
     "industry": "新闻和出版业",
     "nature": "国企/央企"
-   },
-   "stale": true
-  },
-  {
-   "company": "中国大百科全书出版社有限公司",
-   "type": "国企/央企",
-   "location": "北京-西城区",
-   "positions": [
-    "策划编辑"
-   ],
-   "publish_date": "2026-09-23",
-   "deadline": "2026-11-15",
-   "link": "https://www.iguopin.com/job/detail?id=218414006006710460",
-   "source": "iguopin",
-   "batch": "国聘",
-   "deadline_note": "",
-   "extra": {
-    "education": "博士",
-    "major": "电子科学与技术类、科学技术史类、智能科学与技术类、物理学类、计算机科学与技术类、控制科学与工程类、生物医学工程类、电子信息类",
-    "industry": "新闻和出版业",
-    "nature": "国企/央企"
-   },
-   "stale": true
+   }
   },
   {
    "company": "中国国检测试控股集团山东有限公司",
@@ -17466,7 +18182,8 @@
     "major": "光学工程类、仪器类",
     "industry": "其他制造业",
     "nature": "国企/央企"
-   }
+   },
+   "stale": true
   },
   {
    "company": "北控城市环境服务集团有限公司",
@@ -17486,7 +18203,8 @@
     "major": "计算机科学与技术类、机械工程类、智能科学与技术类、详见职位描述",
     "industry": "生态保护和环境治理业",
     "nature": "国企/央企"
-   }
+   },
+   "stale": true
   },
   {
    "company": "北京航天测控技术有限公司",
@@ -17913,7 +18631,8 @@
     "major": "建设工程管理类",
     "industry": "金属制品业",
     "nature": "国企/央企"
-   }
+   },
+   "stale": true
   },
   {
    "company": "中国移动通信集团浙江有限公司",
@@ -18017,7 +18736,8 @@
     "major": "财务会计类、会计类",
     "industry": "其他",
     "nature": "国企/央企"
-   }
+   },
+   "stale": true
   },
   {
    "company": "中国环球租赁有限公司",
@@ -18037,7 +18757,8 @@
     "major": "财务会计类、会计类",
     "industry": "其他",
     "nature": "国企/央企"
-   }
+   },
+   "stale": true
   },
   {
    "company": "中国工艺集团有限公司",
@@ -18078,7 +18799,8 @@
     "major": "自动化类、电气类、电气工程类、自动化类、控制科学与工程类",
     "industry": "专用设备制造业",
     "nature": "国企/央企"
-   }
+   },
+   "stale": true
   },
   {
    "company": "中国东方电气集团有限公司",
@@ -18098,7 +18820,8 @@
     "major": "自动化类、控制科学与工程类、自动化类、电气类、电气工程类",
     "industry": "专用设备制造业",
     "nature": "国企/央企"
-   }
+   },
+   "stale": true
   },
   {
    "company": "中国一冶集团有限公司",
@@ -18118,8 +18841,7 @@
     "major": "安全科学与工程类、资源环境与安全全类、矿业工程类",
     "industry": "建筑业",
     "nature": "国企/央企"
-   },
-   "stale": true
+   }
   },
   {
    "company": "东风汽车集团有限公司",
@@ -18139,7 +18861,8 @@
     "major": "电气工程类、自动化类、材料科学与工程类、机械设计制造类、电子科学与技术类",
     "industry": "汽车制造业",
     "nature": "国企/央企"
-   }
+   },
+   "stale": true
   },
   {
    "company": "东莞银行",
@@ -18833,7 +19556,8 @@
     "major": "机械类、动力工程及工程热物理类、新能源发电工程类、能源动力类、电气类",
     "industry": "电力、热力生产和供应业",
     "nature": "国企/央企"
-   }
+   },
+   "stale": true
   },
   {
    "company": "巨融能源",
@@ -19601,7 +20325,8 @@
     "major": "经济学全类、经济学类、金融学类、经济与贸易类、理论经济学类、应用经济学类、金融类、财政学类、应用统计类",
     "industry": "物业服务",
     "nature": "国企/央企"
-   }
+   },
+   "stale": true
   },
   {
    "company": "中核粒子医疗科技有限公司",
@@ -19769,7 +20494,8 @@
     "major": "自动化类、计算机科学与技术类、计算机类、计算机类、电子信息类、电气类、电子与信息全类、电子信息类、通信类",
     "industry": "航空",
     "nature": "国企/央企"
-   }
+   },
+   "stale": true
   },
   {
    "company": "中国移动通信集团甘肃有限公司",
@@ -19894,7 +20620,8 @@
     "major": "专业不限",
     "industry": "其他制造业",
     "nature": "国企/央企"
-   }
+   },
+   "stale": true
   },
   {
    "company": "中国振华（集团）新云电子元器件有限责任公司（国营第四三二六厂）",
@@ -20098,7 +20825,8 @@
     "major": "工商管理类、统计学类、经济学类、心理学类",
     "industry": "汽车制造业",
     "nature": "国企/央企"
-   }
+   },
+   "stale": true
   },
   {
    "company": "东风汽车集团有限公司",
@@ -20118,7 +20846,8 @@
     "major": "能源动力类、机械设计制造类、机械工程类、自动化类",
     "industry": "汽车制造业",
     "nature": "国企/央企"
-   }
+   },
+   "stale": true
   },
   {
    "company": "东风汽车集团有限公司",
@@ -20138,7 +20867,8 @@
     "major": "能源动力类、机械设计制造类、自动化类、机械工程类",
     "industry": "汽车制造业",
     "nature": "国企/央企"
-   }
+   },
+   "stale": true
   },
   {
    "company": "东风汽车集团有限公司",
@@ -20158,7 +20888,8 @@
     "major": "能源动力类、机械工程类、自动化类",
     "industry": "汽车制造业",
     "nature": "国企/央企"
-   }
+   },
+   "stale": true
   },
   {
    "company": "上海电气电站集团",
@@ -20856,7 +21587,8 @@
     "major": "法学全类",
     "industry": "航天",
     "nature": "国企/央企"
-   }
+   },
+   "stale": true
   },
   {
    "company": "精智达",
@@ -21359,6 +22091,26 @@
    }
   },
   {
+   "company": "精智达",
+   "type": "民企",
+   "location": "深圳",
+   "positions": [
+    "27届-IT业务流程管理专员"
+   ],
+   "publish_date": "2026-09-20",
+   "deadline": "2027-04-29",
+   "link": "https://www.nowcoder.com/jobs/detail/468508",
+   "source": "nowcoder_jobs",
+   "batch": "27届秋招",
+   "deadline_note": "",
+   "extra": {
+    "education": "本科",
+    "major": "",
+    "industry": "芯片",
+    "salary": "10-20K/月"
+   }
+  },
+  {
    "company": "粤港澳大湾区（广东）国创中心",
    "type": "事业单位",
    "location": "广东",
@@ -21681,8 +22433,7 @@
     "major": "",
     "industry": "通信电子",
     "salary": "9-15K/月"
-   },
-   "stale": true
+   }
   },
   {
    "company": "海口市建工集团有限公司",
@@ -21820,6 +22571,26 @@
    "publish_date": "2026-09-20",
    "deadline": "2029-09-20",
    "link": "https://www.nowcoder.com/jobs/detail/468535",
+   "source": "nowcoder_jobs",
+   "batch": "校招职位",
+   "deadline_note": "",
+   "extra": {
+    "education": "本科",
+    "major": "",
+    "industry": "硬件",
+    "salary": ""
+   }
+  },
+  {
+   "company": "正浩创新EcoFlow",
+   "type": "民企",
+   "location": "深圳",
+   "positions": [
+    "BMS硬件工程师"
+   ],
+   "publish_date": "2026-09-20",
+   "deadline": "2029-09-29",
+   "link": "https://www.nowcoder.com/jobs/detail/468514",
    "source": "nowcoder_jobs",
    "batch": "校招职位",
    "deadline_note": "",
@@ -22916,7 +23687,8 @@
     "major": "详见职位描述",
     "industry": "医药制造业",
     "nature": "国企/央企"
-   }
+   },
+   "stale": true
   },
   {
    "company": "广州海格通信集团股份有限公司",
@@ -23137,7 +23909,8 @@
     "major": "详见职位描述",
     "industry": "专业技术服务业",
     "nature": "国企/央企"
-   }
+   },
+   "stale": true
   },
   {
    "company": "广州市城市规划设计有限公司",
@@ -24140,7 +24913,8 @@
     "major": "详见职位描述",
     "industry": "教育",
     "nature": "事业单位"
-   }
+   },
+   "stale": true
   },
   {
    "company": "南方医科大学深圳医院",
@@ -24160,7 +24934,8 @@
     "major": "详见职位描述",
     "industry": "教育",
     "nature": "事业单位"
-   }
+   },
+   "stale": true
   },
   {
    "company": "南方医科大学深圳医院",
@@ -24180,7 +24955,8 @@
     "major": "详见职位描述",
     "industry": "教育",
     "nature": "事业单位"
-   }
+   },
+   "stale": true
   },
   {
    "company": "南方医科大学深圳医院",
@@ -24200,7 +24976,8 @@
     "major": "详见职位描述",
     "industry": "教育",
     "nature": "事业单位"
-   }
+   },
+   "stale": true
   },
   {
    "company": "南方医科大学南方医院",
@@ -25081,7 +25858,8 @@
     "major": "详见职位描述",
     "industry": "电信、广播电视和卫星传输服务",
     "nature": "国企/央企"
-   }
+   },
+   "stale": true
   },
   {
    "company": "中国建筑第八工程局有限公司华南分公司",
@@ -42900,8 +43678,7 @@
     "major": "电子信息类、植物生产类、自然保护与环境生态类、草学类、计算机类、农业类、农业类、生物工程类、生物科学类",
     "industry": "研究和试验发展",
     "nature": "国企/央企"
-   },
-   "stale": true
+   }
   },
   {
    "company": "国投盘江发电有限公司",
@@ -47504,7 +48281,8 @@
     "major": "法学类、智能科学与技术类、经济学类、金融学类",
     "industry": "电力、热力、燃气及水生产和供应业",
     "nature": "国企/央企"
-   }
+   },
+   "stale": true
   },
   {
    "company": "安徽淮南平圩发电有限责任公司",
@@ -47524,7 +48302,8 @@
     "major": "自动化类、电气工程类、控制科学与工程类、电气类、土木工程类、动力工程及工程热物理类、能源动力类、电子信息类、环境科学与工程类",
     "industry": "电力、热力、燃气及水生产和供应业",
     "nature": "国企/央企"
-   }
+   },
+   "stale": true
   },
   {
    "company": "安徽淮南平圩发电有限责任公司",
@@ -47544,7 +48323,8 @@
     "major": "自动化类、动力工程及工程热物理类、电气工程类、控制科学与工程类、电气类、能源动力类、电子信息类",
     "industry": "电力、热力、燃气及水生产和供应业",
     "nature": "国企/央企"
-   }
+   },
+   "stale": true
   },
   {
    "company": "大华银行",
@@ -55505,8 +56285,7 @@
     "major": "仪器类、能源动力类、化工与制药类、地质类、矿业类、管理科学与工程类、机械类、电气类、自动化类、计算机类、植物生产类",
     "industry": "采矿业",
     "nature": "国企/央企"
-   },
-   "stale": true
+   }
   },
   {
    "company": "国投宝原（苏州）健康产业有限公司",
@@ -65230,7 +66009,8 @@
     "major": "详见职位描述",
     "industry": "其他制造业",
     "nature": "国企/央企"
-   }
+   },
+   "stale": true
   },
   {
    "company": "字节跳动",
@@ -72365,7 +73145,8 @@
     "major": "经济与贸易类、国际商务类、外国语言文学类、物流管理与工程类、铁道运输类、道路运输类、水上运输类、管道运输类、电子信息类、物流类",
     "industry": "道路运输业",
     "nature": "国企/央企"
-   }
+   },
+   "stale": true
   },
   {
    "company": "中移互联网有限公司",
@@ -72553,7 +73334,8 @@
     "major": "法学类",
     "industry": "建筑安装业",
     "nature": "国企/央企"
-   }
+   },
+   "stale": true
   },
   {
    "company": "中国邮政集团有限公司河北省分公司",
@@ -91164,7 +91946,8 @@
     "major": "法律实务类",
     "industry": "电力/热力/燃气/水利",
     "nature": "国企/央企"
-   }
+   },
+   "stale": true
   },
   {
    "company": "中国能源建设集团山西省电力勘测设计院有限公司",
@@ -110762,7 +111545,8 @@
     "major": "",
     "industry": "信息传输、软件和信息技术服务业",
     "nature": "国企/央企"
-   }
+   },
+   "stale": true
   },
   {
    "company": "碧桂园生活服务集团股份有限公司",
@@ -123210,13 +123994,13 @@
   {
    "company": "中国联合网络通信有限公司广东省分公司",
    "type": "国企/央企",
-   "location": "湛江",
+   "location": "肇庆-端州区",
    "positions": [
-    "网络维护与优化岗"
+    "解决方案经理"
    ],
    "publish_date": "2026-08-25",
    "deadline": "2027-08-31",
-   "link": "https://www.iguopin.com/job/detail?id=215284149538260506",
+   "link": "https://www.iguopin.com/job/detail?id=215284823697131022",
    "source": "iguopin",
    "batch": "国聘",
    "deadline_note": "",
@@ -124024,21 +124808,20 @@
    "type": "国企/央企",
    "location": "贵阳-花溪区",
    "positions": [
-    "研发工程师（柔板/一体化）"
+    "研发工程师（特种开关/继电器）"
    ],
    "publish_date": "2026-08-24",
    "deadline": "2027-06-30",
-   "link": "https://www.iguopin.com/job/detail?id=214934063515960691",
+   "link": "https://www.iguopin.com/job/detail?id=214934065311122803",
    "source": "iguopin",
    "batch": "国聘",
    "deadline_note": "",
    "extra": {
     "education": "硕士",
-    "major": "电子信息类",
+    "major": "电气类",
     "industry": "航天",
     "nature": "国企/央企"
-   },
-   "stale": true
+   }
   },
   {
    "company": "贵州航天林泉电机有限公司",
@@ -132573,13 +133356,13 @@
   {
    "company": "中国联合网络通信有限公司海南省分公司",
    "type": "国企/央企",
-   "location": "海口-秀英区",
+   "location": "三亚",
    "positions": [
-    "装维服务支撑"
+    "动力传输工程师"
    ],
    "publish_date": "2026-08-24",
    "deadline": "2027-08-31",
-   "link": "https://www.iguopin.com/job/detail?id=215151201946174799",
+   "link": "https://www.iguopin.com/job/detail?id=215151106450261347",
    "source": "iguopin",
    "batch": "国聘",
    "deadline_note": "",
@@ -132593,13 +133376,13 @@
   {
    "company": "中国联合网络通信有限公司海南省分公司",
    "type": "国企/央企",
-   "location": "海口-秀英区",
+   "location": "陵水",
    "positions": [
-    "价值经营与智慧运营"
+    "财务专岗"
    ],
    "publish_date": "2026-08-24",
    "deadline": "2027-08-31",
-   "link": "https://www.iguopin.com/job/detail?id=215151203070248280",
+   "link": "https://www.iguopin.com/job/detail?id=215151101349987672",
    "source": "iguopin",
    "batch": "国聘",
    "deadline_note": "",
@@ -132613,33 +133396,13 @@
   {
    "company": "中国联合网络通信有限公司海南省分公司",
    "type": "国企/央企",
-   "location": "文昌",
+   "location": "琼中",
    "positions": [
-    "解决方案经理"
+    "预算及经营分析"
    ],
    "publish_date": "2026-08-24",
    "deadline": "2027-08-31",
-   "link": "https://www.iguopin.com/job/detail?id=215151102809605455",
-   "source": "iguopin",
-   "batch": "国聘",
-   "deadline_note": "",
-   "extra": {
-    "education": "",
-    "major": "",
-    "industry": "信息传输、软件和信息技术服务业",
-    "nature": "国企/央企"
-   }
-  },
-  {
-   "company": "中国联合网络通信有限公司海南省分公司",
-   "type": "国企/央企",
-   "location": "海口-秀英区",
-   "positions": [
-    "数据研发工程师"
-   ],
-   "publish_date": "2026-08-24",
-   "deadline": "2027-08-31",
-   "link": "https://www.iguopin.com/job/detail?id=215151200503334223",
+   "link": "https://www.iguopin.com/job/detail?id=215151097809995096",
    "source": "iguopin",
    "batch": "国聘",
    "deadline_note": "",
@@ -144760,7 +145523,8 @@
     "major": "材料类、机械类、材料科学与工程类、冶金工程类",
     "industry": "金属制品业",
     "nature": "国企/央企"
-   }
+   },
+   "stale": true
   },
   {
    "company": "沧州旭阳化工有限公司",
@@ -194908,7 +195672,8 @@
     "major": "",
     "industry": "硬件",
     "salary": "26-35K/月"
-   }
+   },
+   "stale": true
   },
   {
    "company": "安徽省投资集团控股有限公司",
@@ -195065,7 +195830,8 @@
     "major": "护理学类、医学全类、药学类、中药学类",
     "industry": "卫生",
     "nature": "国企/央企"
-   }
+   },
+   "stale": true
   },
   {
    "company": "国药控股陕西有限公司",
@@ -196671,7 +197437,8 @@
    "source": "nowcoder",
    "batch": "",
    "deadline_note": "",
-   "extra": {}
+   "extra": {},
+   "stale": true
   },
   {
    "company": "上海精测",
@@ -218424,7 +219191,8 @@
     "major": "",
     "industry": "硬件",
     "salary": "20-40K/月"
-   }
+   },
+   "stale": true
   },
   {
    "company": "华为HUAWEI",
@@ -220371,86 +221139,6 @@
    "batch": "",
    "deadline_note": "",
    "extra": {},
-   "stale": true
-  },
-  {
-   "company": "深圳市锋易天下科技有限公司",
-   "type": "民企",
-   "location": "",
-   "positions": [],
-   "publish_date": "2026-07-08",
-   "deadline": null,
-   "link": "",
-   "source": "nowcoder",
-   "batch": "",
-   "deadline_note": "",
-   "extra": {},
-   "stale": true
-  },
-  {
-   "company": "拼多多集团-PDD",
-   "type": "互联网",
-   "location": "上海",
-   "positions": [
-    "后端工程师-2027届校招",
-    "2027届"
-   ],
-   "publish_date": "2026-07-08",
-   "deadline": "2026-10-08",
-   "link": "https://www.nowcoder.com/jobs/detail/452930",
-   "source": "nowcoder_jobs",
-   "batch": "27届秋招",
-   "deadline_note": "",
-   "extra": {
-    "education": "本科",
-    "major": "",
-    "industry": "电商",
-    "salary": "25-40K/月"
-   },
-   "stale": true
-  },
-  {
-   "company": "拼多多集团-PDD",
-   "type": "互联网",
-   "location": "上海",
-   "positions": [
-    "AI Agent研发工程师",
-    "2027届"
-   ],
-   "publish_date": "2026-07-08",
-   "deadline": "2026-08-31",
-   "link": "https://www.nowcoder.com/jobs/detail/452929",
-   "source": "nowcoder_jobs",
-   "batch": "27届秋招",
-   "deadline_note": "",
-   "extra": {
-    "education": "本科",
-    "major": "",
-    "industry": "电商",
-    "salary": ""
-   },
-   "stale": true
-  },
-  {
-   "company": "拼多多集团-PDD",
-   "type": "互联网",
-   "location": "上海",
-   "positions": [
-    "AI Agent研发工程师",
-    "2027届"
-   ],
-   "publish_date": "2026-07-08",
-   "deadline": "2026-09-01",
-   "link": "https://www.nowcoder.com/jobs/detail/452929",
-   "source": "nowcoder_jobs",
-   "batch": "27届秋招",
-   "deadline_note": "",
-   "extra": {
-    "education": "本科",
-    "major": "",
-    "industry": "电商",
-    "salary": ""
-   },
    "stale": true
   },
   {
